@@ -21,15 +21,18 @@ Elena made it to Murann in one piece, but without her father, and much poorer.
 ** Lemuria Expedition
 *** Negotiation
 **** Desired Qualifications
-- At least ten years of adventuring experience.
+- At least five years of adventuring experience.
 - Must be able to handily deal with two goblins.
 - Knowledge of the arcane, history, foreign languages, and other similar skills desired.
 - Two professional references per applicant. 
 
 **** Insurance
-Insured with the Adventurers Guild. 
+Insured with Calceri Bank. 
 - In the event of verified death, 1000gp goes to loved ones.
 - In the event of maiming, up to 300gp paid out, to be decided in the Harpers' court.
+- If Elena returns, an extra 400gp will go to the hero or their descendants.
+- For every additional crew member that returns, an extra 50gp will go to the hero or their descendants. 
+
 **** Base salary
 - 100gp up front.
 - 200gp or 1% of loot upon return, whichever is higher.
@@ -37,7 +40,6 @@ Insured with the Adventurers Guild.
 
 *** Summary
 - [[Elena Feyhammer]] and [[Himo Liadon]] are collecting a group of adventurers (mercenaries) to go hunting for the lost land of Lemuria!
--
 
 * Legends
 ** Lemuria
@@ -54,26 +56,45 @@ Insured with the Adventurers Guild.
 * PC
 * NPC
 ** From Waterdeep
+*** Bayaz
+- Lord of Waterdeep
+- Level 15 Wizard-Sorcerer
+- Patron of [[Elena Feyhammer]].
+- Wants to 
+
 *** Marod Feyhammer
 - Male human calishite, 77
 - Father of [[Elena Feyhammer]]
 - Calishite merchant and later aristocrat.
-- Later in life, wanted to migrate to the Amn [[Feyhammer Migration]].
+- Later in life, wanted to migrate to the Amn: [[Feyhammer Migration]].
  
 *** Elena Feyhammer
 - Wanted to be an adventurer, like those in the tales.
 - Female human calishite, 46
 - Level 7 Sorcerer
 - Gift for divination
+- Has had worsening magical dreams about her father [[Marod]] for the past 7 months. They point her southwards.
+- Approached by [[Bayaz]] 
 
-*** Himo Liadon (Silverfrond)
-- Male moon elf, 158
-- Level 4 rogue, Level 4 Mystic
+*** Logen Ninefingers
+- Level 7 human Barbarian
+- Elena's bodyguard
+- Six foot Barbarian, wielding a massive claymore and little else.
+- Armored in leather.
+- Terse, but if he Elena thinks its safe for him to drink, he opens up.
+- From the far North -- exiled after briefly achieving hegemony amoung the tribesmen.
+- When raging, can become the Bloody-Nine
+- Hired by Elena as she was traveling into Waterdeep -- she saw him massacre bandits along the side of the road.
 
 *** Renault Monsigne
 - Halfling Cartographer
 - Brought in to resolve discrepancies in the maps by [[Elena Feyhammer]].
-  
+
+*** Reginald Truthseeker
+- Bald human male monk
+- Legal Witness of Waterdeep
+- Will try to force honesty from both Elena and the PCs during negotiations.
+- Magical quill will be taking notes during negotiations. Crossing out deletes things.
 ** From Calimport
 *** Santanos Morialdos
 - Captain of the Prima Victoria, the ship from which [[Marod Feyhammer]] had first found Lemuria.
@@ -91,6 +112,8 @@ What is something they (the player) wants to accomplish
 What is something their character wants to accomplish
 Go over any home rules or just the rules (maybe do a simple fight or something here, non-cannon)
 Job Interview
+*** Things you know
+**** Spread of a plague in the South has 
 *** Summary
 ** Predictions
 *** If the 

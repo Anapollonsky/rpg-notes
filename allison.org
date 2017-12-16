@@ -1,0 +1,74 @@
+* Description
+It was a nightmare. The most vivid nightmare imaginable. I remember it like it was yesterday, and I relive it every night.
+
+I remember being at home. Little Alan was falling asleep. I was rocking his cradle. Gently, back and forth, like an Aglarondi coastboat in her berth. I remember the knock on my door; it was my neighbor, I forget his name. A tall fellow, middle-aged, former soldier in the wars of Aglarond. Or so he said, but I believed him at the time. No reason not to.
+
+When I opened the door, they grabbed me and hauled me away. Guards, and neighbors, and strangers. I remember my husband was there, watching them take me away. He'd been complicit, I could tell. He'd known of the Beast. He'd been saved by the Beast. He was afraid of it. He'd known what they would do to me. Maybe it was for the best. Maybe Alan is happier now. Maybe everything should have died with me. But it didn't.
+
+I was arrested and kept in a cell, to be executed the following morning. The Aglarondians are more squeamish than we Thayans are, they don't permit the tainted to live. I remember giving up. I was thinking that maybe they were right, maybe it would be best if I were dead. I still don't know. I remember being ready to die as they dragged me to the center of town the following morning.
+
+Then my Beast intervened.
+
+I remember being strapped to a pole. I remember the executioner approaching me with a torch. And then there was fire everywhere. The flames licked my flesh, and though it hurt -- oh, how it hurt -- the Beast kept me going. The ropes frayed before I did. I remember falling off the pole, flesh sizzling. I remember the smell. To smell your own flesh burning is a horrifying thing. For me, now, a constant. I got up, and ran at the crowd, a human torch. I ran through them, and kept going. I don't know how, but I outran them all. My Beast knows, but he won't tell me. 
+
+I would say that it was my defining moment. When I had to flee from the town I had grown up and lived most of my life in. I had been in the militia before, you know. I was risking my life for everyone in the village. I guess I made good life choices. At least those skills transfer to being a vagabond adventurer.
+
+I'm better now. The Beast healed the burns. Everything except my right arm. Perfectly functional, but charred and blackened. I keep it hidden, but the smell can't be avoided. Most who smell it ask about a nearby roast pig. I think it's one of the Beast's little jokes.
+
+I went back to the Reach once, just to see what my former husband's life is like now. He's remarried, but Alan is still there. They can use my money better than I can. I try to send it when I can. I haven't gone back in years, though. The further the Beast is from Alan, the better.
+
+
+
+* Gear
+145g starting (2x dagger (4) , 1x crossbow (25), bolts (1) 1x mace (5), 1x leather armor(10)) + 100 starting
+95g so far
+| Rapier                 | 25g  |   |
+| Scale Mail             | 50g  |   |
+| Shield                 | 10g  |   |
+| Monster Hunter's Pack  |      |   |
+| - chest                |      |   |
+| - hammer               |      |   |
+| - wooden stakes x3     |      |   |
+| - holy symbol          |      |   |
+| - flask of holy water  |      |   |
+| - set of manacles      |      |   |
+| - steel mirror         |      |   |
+| - flask of oil         |      |   |
+| - tinderbox            |      |   |
+| - torch x3             |      |   |
+| Dungeoneer's Pack      |      |   |
+| - backpack             |      |   |
+| - crowbar              |      |   |
+| - hammer               |      |   |
+| - pitons x 10          |      |   |
+| - torch x 10           |      |   |
+| - tinderbox            |      |   |
+| - rations x10          |      |   |
+| - waterskin            |      |   |
+| Arcane Focus           |      |   |
+| Healer's Kit           | 5g   |   |
+| Caltrips (bag  20 x 2) | 2g   |   |
+| 2 Person tent          | 2g   |   |
+| Robes                  | 1g   |   |
+| Perfume                | 5g   |   |
+| Signal Whistle         | .01g |   |
+| Grappling Hook         | 2g   |   |
+
++10s
+** Spells
+*** 0 
+Eldrich Blast
+
+*** 1
+Wrathful Smite
+Arms of Hadar
+Armor of Agathys
+
+** Invocations
+- Agonizing blast (+3 to elritch blast)
+- Burning hex (Target with hexblade's curse takes proficiency damage)
+
+
+** Current
+- USed one hit die
+-full lifed
