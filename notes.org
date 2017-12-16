@@ -1,0 +1,1454 @@
+* General
+** Timing
+*** Gods
+**** Lathander
+ http://forgottenrealms.wikia.com/wiki/Lathander
+***** Description
+Lathander, whose title was The Morninglord, was a deity of creativity, dawn, renewal, birth, athletics, spring, self-perfection, vitality and youth.
+***** Midsummer Festivities
+http://www.nj-pbem.com/data/Gods/humangods/Lathander.htm
+On special occasions, on Midsummer morning, and on the mornings of the vernal and autumnal equinoxes, priests of Lathander perform the Song of Dawn, praising Lathander with a blend of vocal harmonies and counterharmonies of beautiful complexity.
+**** Oghma
+http://forgottenrealms.wikia.com/wiki/Oghma
+***** Description 
+Oghma, also known as The Lord of Knowledge, was the neutral greater power of bards, inspiration, invention, and knowledge in Faerûn. Oghma was the leader of the Deities of Knowledge and Invention and his home plane was the House of Knowledge.
+***** Midsummer Festivities
+ http://www.nj-pbem.com/data/Gods/humangods/Oghma.htm
+Midsummer and Shieldmeet are the most sacred days of the Oghmanyte calendar since they are occasions when agreements are made or renewed and many contracts, bonds, and the like are drawn up. However, a priest of Oghma must observe two solemn rituals every day: the Binding and the Covenant. The Binding is a morning service wherein the symbols of Oghma are written in the dirt, in ashes upon a stone altar, or in the mind if a clergy member happens to be shackled or otherwise unable to write, while a silent prayer of loyalty and praise is made to Oghma. The Covenant is an evening service during which a passage from some work of wisdom is read aloud or recited from memory, a song or poem is offered up to Oghma, and some item of knowledge that the clergy member has learned during that day is spoken aloud to the god and to any fellow clergy present.
+**** Tymora
+ http://forgottenrealms.wikia.com/wiki/Tymora
+***** Description
+Tymora, or more commonly Lady Luck, was the goddess of good fortune.
+***** Midsummer Festivities
+Midsummer is the most important festival of Tymora - a wild, nightlong revel of reckless, mischievous derring-do and romantic trysts. It is a time for the wandering clergy to gather and meet with Harpers, those of allied faiths and relatives. Many missions and plans are laid at such times.
+**** Silvanus
+ http://forgottenrealms.wikia.com/wiki/Silvanus
+***** Description
+Silvanus the Forest Father, was the god of nature, though formerly considered only the god of wild nature and druids. Silvanus was one of the oldest and most prominent deities in Faerûn, and the wilder counterpart to Chauntea the Earthmother. His worshipers protected places of nature from the encroachment of civilization with vigor and were implacable foes of industrious peoples.
+***** Midsummer Festivities
+Worshipers of Silvanus consider Midsummer Night holy, and often give sacrifice by breaking and burying an object constructed of wood.
+**** Sune
+http://forgottenrealms.wikia.com/wiki/Sune
+***** Description
+Sune, also known as Lady Firehair, was the deity of beauty, with governance also over love. Her dogma primarily concerned love based on outward beauty, with primary importance placed upon loving people who responded to the Sunite's appearance. Her symbol was that of a beautiful woman with red hair.
+***** Midsummer Festivities
+http://www.nj-pbem.com/data/Gods/humangods/Sune.htm
+ Midsummer Night with night-long flirtatious chases through forests and parks, but local priesthoods can set the times of other celebrations to their own pleasure, as long as at least one Grand Revel befalls each month and at least one Feast of Love is celebrated in every tenday.
+
+A Grand Revel is a dusk-to-dawn party to which outsiders are invited, dancing and minstrelsy dominate, and those of the faith seek to attract converts with fun and the exhibition of a few of a temple's or shrine's beautiful art objects or magical treasures. A Feast of Love is a more intimate, quiet affair, open only to the faithful, who lie on couches and indulge in the gentle sipping of liquers and nibbling at subtly flavoured bitelets (as savory hors d'oeuvres are called in the Realms) and sweet pastries while lone dancers perform. These dances are interspersed with readings of romantic verse and prose and lays of love sung by skilled minstrels. Such rituals always break up into private gatherings, though bards are always on hand to relate
+
+**** Shar
+http://forgottenrealms.wikia.com/wiki/Shar
+***** Description
+Shar, the Mistress of the Night, was the goddess of darkness and the caverns of Faerûn, as well as a neutral evil greater deity. Counterpart to her twin Selûne, she presided over caverns, darkness, dungeons, forgetfulness, loss, night, secrets, and the Underdark. Among her array of twisted powers was the ability to see everything that lay or happened in the dark. Shar's symbol was a black disk with a deep purple border. Shar was also the creator of the Shadow Weave, which was a counterpart and attack upon the Weave, controlled by Mystryl and her successors, before both of the Weaves fell into ruin during the Spellplague.
+**** Zarus
+http://archive.wizards.com/default.asp?x=dnd/ex/20041203a
+*** Campaign
+- Campaign began in year 1480 DR, 11 Flamerule, Year of the Ageless One.
+- First session (Rabbit and Rurik clear the [[Wizard's Tower Brewery]]) ended 21 Flamerule.
+- Second session (Rabbot, Rurik, Buruun and Finian enter the cell in [[Tower of the Stargazer]]) ended 2nd of Eliasis, 10 am.
+- Third session (Mostly-defeat the thayans in [[Tower of the Stargazer]]) ended 3rd of Eliases, 12 am.
+- Fourth session 
+*** General
+**** Calendar of Harptos
+ http://forgottenrealms.wikia.com/wiki/Calendar_of_Harptos
+***** Hammer ("Deepwinter")
+***** Midwinter between Hammer 30 and Alturiak 1
+***** Alturiak ("The Claw of Winter" or "The Claws of the Cold")
+***** Ches ("The Claw of Sunsets")
+****** Spring Equinox on Ches 19
+***** Tarsakh ("The Claw of the Storms")
+***** Greengrass between Tarsakh 30 and Mirtul 1
+***** Mirtul ("The Melting")
+***** Kythorn ("The Time of Flowers")
+****** Summer Solstice on Kythorn 20
+***** Flamerule ("Summertide")
+***** Midsummer between Flamerule 30 and Eleasias 1
+***** Shieldmeet occurs the day after Midsummer, once every four years
+***** Eleasis ("Highsun")
+***** Eleint ("The Fading")
+****** Autumn Equinox on Eleint 21
+***** Highharvestide between Eleint 30 and Marpenoth 1
+***** Marpenoth ("Leafall")
+***** Uktar ("The Rotting")
+***** Feast of the Moon between Uktar 30 and Nightal 1
+***** Nightal ("The Drawing Down")
+****** Winter Solstice on Nightal 20
+
+*** Holidays
+***** Midsummer
+http://forgottenrealms.wikia.com/wiki/Midsummer
+****** Description
+Midsummer was a festival that celebrated love and music through feast. It occurred between 30 Flamerule and 1 Eleasis on the Calendar of Harptos. It was a time when love advanced, and it was said the deities themselves took a hand to ensure good weather. If bad weather was experienced on this night it was considered an extremely bad omen. Shieldmeet occurred the day after Midsummer on leap years.
+***** Shieldmeet
+http://forgottenrealms.wikia.com/wiki/Shieldmeet
+****** Description
+Shieldmeet was the equivalent of a leap year day in the Calendar of Harptos, occurring once every four years, adding a day after the festival of Midsummer and before Eleasis 1. Traditionally the day was used for fairs, bazaars, musical and theatrical performances, and tournaments of skill and magical ability. Nobles usually held court to hear the petitions of their people and to make or renew trade pacts, alliances, and agreements.
+
+Shieldmeet was known as Cinnaelos'Cor (also seen as Cinnaeloscor), "the Day of Corellon's Peace" in elvish and marked the end of an aeloulaev and the beginning of a new one in the elven Aryselmalyn calendar.
+
+* Storylines
+** Campaign of the Tower of the Stargazer
+- 713 days ago: [[Earl Karlin]] visits [[Neverwinter]] to purchase supplies, is seduced and charmed by [[Arunika]].
+- 132 days ago: [[Earl Karlin]] receives a message from [[Arunika]] prompting him to imprison [[Uravulon Calcidius]].
+- 122 days ago: [[Uravulon Calcidius]] attempts a summoning from the beyond, but is betrayed and imprisoned within a circle of salt.
+- 114 days ago: [[Thenn Darkshadow]], a scholar, associate of [[Arunika]] and servant of [[Kwarl Salindar]], enters the tower by [[Earl Karlin]]s invitation.
+- 83 days ago: [[Thenn Darkshadow]] discovers [[Voloija's Mirror]] and how to visit the mirror material plane. Begins hunting and slowly going mad.
+- 39 days ago: [[Karl Barsmasher]] is hunting in the area when [[Thenn Darkshadow]] catches and drains his mirror self.
+- 28 days ago: [[Elearnor Argyle]] is exploring the area to the east of the tower when a thunderstorm arrives. Drawn by the sound of massive repetitive lightning to the west, she approaches the tower, but flees before seeing it due to the sound and feelings of uneasiness. Her mirror self was drained.
+- 19 days ago: [[Psathyrella]] discovers the state of the tower in her divinations and decides to intervene out of curiousity in the mirror plane.
+- 15 days ago: [[Psathyrella]] petrifies [[Earl Karlin]] when he opens the front door, expecting a visit from [[Kwarl Salindar]]
+- 15 days ago: [[Thenn Darkshadow]] flees into the mirror realm. He stays there for a day, and is afterwards unable to return.
+- 14 days ago: While exploring the tower, [[Psathyrella]] comes across the room of mirrors and [[Voloija's Mirror]]. Her mirror-self is petrified, all other mirrors in the room are shattered by [[Psathyrella's Mask]].
+- now (29 Flamerule, 1480DR): Heroes enter the tower. If they release [[Uravulon Calcidius]], she intervenes to petrify him. Else, she escapes the tower.
+- five days from now: [[Kwarl Salindar]] with a contingent of Thayan Red Wizards and troops arrive at the tower to find why [[Thenn Darkshadow]] stopped reporting.
+** Captured by Thayans
+*** Near Tower of the Stargazer
+- Will be led to the West, towards Neverwinter. Will need to cross river flowing south.
+- Ambush by 6 goblin goat-riders and a level 5 goblin wizard once river is reached; raft tied to the bank potential route for escape while captors occupied.
+- If traveled two miles down to [[Cognezol]], will be [[Catpured by Cognezol]].
+- Placed in prison in stronghold slightly east of Neverwinter.
+- Potential negotitations with Farwood for safe return.
+** Captured by Cognezol
+- Treated reasonably, shown a small tour of the city, albeit with great cauton.
+- Rabbit will be approached by a Eliza Farmayson, and reproached for helping break the fragile peace between the races here.
+- 32 days after capture, a caravan from Farwood with permission to release and bring back the party will arrive. It will arrive back in Freeport in three days.
+- The adventure will have cost the city of Farwood 500g.
+* PC
+** Rabbit (Elizabeth)
+- Wood Elven Ranger
+** Rurik Stormhammer (Avrutin)
+- Dwarf Wizard
+*** Background
+Growing up, Rurik Battlehammer was a typical Dwarf child, albeit on the
+tall side. While some Dwarves find their interests in metals or gems,
+Rurik took a greater interest in stonework. He loved stories of the
+magnificent structures of Mithril Hall and other Dwarven kingdoms.
+Indeed, he spent a significant amount of time searching through books
+for everything he could find about their construction.
+
+For a time, a human wizard visited the area near his home. Upon seeing
+the wizard manipulating tools with a Mage Hand spell, Rurik became the
+enamored with the idea of using magic for constructing great structures.
+He convinced the wizard to teach him the basics of magic and decided to
+leave his home to learn all that he could of magic and its applicability
+to physical structures. At the wizards recommendation, he decided to
+seek out the Elves and learn of their craftsmanship.
+** Buurun
+- Human male druid
+- Raised by werewolves
+- Moved west towards Farwood City while wandering
+- Passed the road between Longsaddle and Waterdeep being accosted by bandits along the way
+- Top part of body blown off by a critical failure fireball of [[Rurik]].
+** Finian Rastapopulamatous (Gitzel)
+- Human priest of Talos, nickname Finn
+- Used to be a pirate captain, but was mutined against and forsaken on an island.
+- Became a priest of Talos to earn his keep, then started journing, trying to hunt down his mutineers and former crewmembers for revenge.
+** Bharash (Nico Castro)
+- Male dragonborn Paladin of Tyr
+- Mentor was a human paladin of tyr
+*** Notes given to Player
+**** Background 
+You are in a cage, 5' by 5'. There are more like yours in the room you're in; eight of them, arranged in a row. The room itself is maybe 40' x 10'. You haven't seen outside this room in a long time. Weeks, certainly. Possibly months.
+
+You are hungry, and thirsty, and filthy. It wasn't always this way. It used to be you'd be regularly visited and drained by someone named Thenn, a vampire. It used to be you were cared for, provided with ample food and water and books. It wasn't much, but you've learned not to expect much. Not for a while, though. Thenn and his servants stopped visiting long ago. Stopped refilling your trough with water, stopped bringing food, stopped providing reading material. You miss them. 
+
+You are not alone. A cell two to the right of yours is occupied by fellow cattle. You've talked to Farissa Mayfield at length; hers is a sad tale. Familial fiscal mismanagement, debts owed to bad people, the road leading to slavery and worse. She's holding up well in the cell. Better than you, in fact.
+
+Two cells to the left of you is another cattle. You've seen her face once, when Thenn forced her to face him during a feeding. A halfling, a pretty thing. Without Thenn, she has no reason to face you. She huddles in the far corner of her cell, face towards the wall, mumbling incoherently in an unknown but pleasant-sounding tongue. You haven't seen her eat or drink since she got here; more recent than your own arrival, sure, but still far too long. It confuses you. You don't know her name.
+
+There used to be one more, but there isn't anymore. Farissa ate most of him. She gave you some. You don't remember if you partook. Farissa's a nice girl. You're glad you're separated by a now-empty cell.
+
+In the cell directly to your left is your nightmare. A skeleton is chained to the wall. It's been here since before you were placed in your cell. The skeleton has fifteen arms and four spines, and it talks to you. Not in real life, you're sane enough to know that much, but at night, in your dreams, every night, all nights. It used to talk of life outside, of all the things it missed. It was wistful. It used to talk of your hopes and dreams. Now you have none. Now it talks of darker things. You hope not to stay with it forever. It resents you for it.
+
+It used to be better. When you were first acquired by the Thayans near Neverwinter, your tasks were mundane. Physical. You miss that, you feel atrophied. You'd held out hopes of being ransomed out, but it didn't come to pass. Then Thenn took a liking to you. The Thayans didn't have many vampires, and Thenn was clever, he had influence. You became his cattle. It was vile, disgusting, degrading, but easy. Until you were sent to the cursed tower. An opportunity had appeared. But not for you. You don't have much time left.
+**** Rules
+- Use the point-buy system for generating stats for your character; I'd like players to have roughly equal stats, die-throwing is too random.
+- We're playing with advanced encumberence rules, detailed on the right column of page 176 of the players handbook. 15x your strength in pounds is maximum carry weight, >10x is heavily encumbered, and >5x is lightly encumbered. Shouldn't be a problem for you early on.
+- We're playing with accounting for food/drink, lighting, and other stuff like that. I'm trying to emphasize some degree of realism.
+
+*** Background
+My (Bharash's) hometown was destroyed by a white dragon when I was a child. My father sacrificed himself to protect me and I was able to survive the dragon's attack because he painted me with his blood and hid me under his body. After the attack, I roamed the southern foothills of the Spine of the World alone and homeless. I begged for food and shelter when I could, but it wasn't enough to sustain me. I collapsed at a shrine to Tyr, and that's where the paladin found me. He took me as his squire because he saw something in me. He trained me and taught me to harness the anger that dwelled inside me into divine power. We roamed from town to town taking odd jobs and making a living that way, but I never forgot my true purpose: to exact vengeance on the white dragon that destroyed my clan. 
+
+Tyrdron, the paladin, was a member of the Hammers of Grimmjaws, the elite of the paladins of Tyr. He took it upon himself to hunt down and extinguish demonic corruption from Toril. I followed him in his mission, and together we fought many devils from the nine hells. When it was time for me to become a fully fledged paladin, Tyrdron sent me on a quest to bring me closer to Tyr. While on my quest, he was killed in combat. He was taken back to Neverwinter to be buried at a temple of Tyr.
+
+I was visiting his grave and praying for guidance on what the next steps in my mission to exterminate white dragons should be when I was captured by the Thayans. And you know what happens next. Let me know if anything is inconsistent with that and we can tweak it. :)
+** Vamoner Besarkel (John D)
+*** Initial Description
+You are a high-ranking officer in the service of Gerard Mayworth, the Lord of Ethermaw. Several days ago, the young prince of the Kingdom of Carrowmaw, Mayard Tinn, had succumbed to his bleeding sickness. Due to the age of the king Richard Tinn (87) and the lack of a suitable heir, the prince's death has pushed the Kingdom into political disarray. This you know.
+
+You've heard that Lord Gerard Mayworth is taking advantage of the weakness of the Kingdom to push for more autonomy, with an eye on the throne. Three days ago, Gerard started mobilizing his armies. This is common knowledge.
+
+Four days ago, a tower had materialized in the outskirts of the Ethermaw City. Driven by curiosity, you've gone to see the tower from a distance -- you've seen how the gods themselves seem to reject it, striking it with lightning bolt upon lightning bolt without end, even when the sky is clear -- and you've seen the tower stand, undamaged, seemingly impregnable. You've heard that the wizard from the tower was seen visiting Lord Gerard at his estate shortly after its materialization. You've heard that this is connected to the mobilization. The timing adds up. It worries you.
+
+Last night, a courier delivered a message asking for you to report to Gerard Mayworth at his estate. You've just arrived, observing that the estate is covered with military tents, soldiers milling around and training, peasants standing in line at a recruitment office, being inspected for military readiness.
+
+You enter his mansion, recognized by the guards, and see Gerard conversing with four diverse adventurers -- shockingly, three of whom aren't human, which is rare in this racist kingdom. You overhear that these adventurers are to be part of a contingent responsible for securing the Pilar Griffon Training Compound to the southwest of the city. Gerard sees you enter, and says "You're here, {John}! Just in time. Your expertise is sorely needed here..."
+
+* NPC
+** The Crows
+*** Holloch Frosen
+*** Echo Frosen
+*** Ghar Zhaghoun
+*** Zolushka Von Der Lith
+** Fimbulvetr 
+*** Elvira Fimbulvetr
+- Level 3 Female Half-Elf Mystic  (Awakened)
+- Sister of [[Isaac Fimbulvetr]]
+*** Isaac Fimbulvetr
+- Level 3 Male Elf Fighter
+- Brother of [[Elvira Fimbulvetr]]
+*** Ankar Psalth
+- Level 3 Male Elf Druid
+** From Azmorad
+*** Ekken Mekkentork
+- High Tinker of Arin
+*** Marvin Thermaplugg
+
+** From Farwood City
+*** Religious
+**** Olena Sunthrift
+ - Young female human priestess of Sune.
+ - From [[Waterdeep]]'s [[Temple of Beauty]], wanting to establish a similar house of worship in [[Farwood City]].
+ - In [[Farwood City]] to plead for the establishment of a local branch of the Church of Sune.
+ - Her and her entourage are in possession of several works of art and the [[Cloak of Krasus]].
+ - Works of art include an array of bright, sunny, beautiful paintings of love and nature.
+ - Works of art include an animated painting, [[The Torns and the Medusa]].
+ - Everything in the exhibition is magically protected and tagged for retrieval, and is guarded by a small host of [[Sune]]'s faithful.
+**** Agramor Pothalseus
+- Netherese male priest of Shar.
+- From the Empire of Netheril, interested in opening up a temple to [[Shar]] in the city.
+- Will try to sell on power, access to an alternate weave given Mystra's inconsistency, and Shar's vengeful attitude.
+- "Life is largely about power, and Shar exemplifies that. The Mistress of the Night aims to give her followers a way to thrive in the darkness, without becoming a target by embracing light."
+- In a small town "Morrotown"
+- May ask players to clear out old temple of Shar, kicking off:
+- [[../Adventures/D&D5/Low-Level/Temple of the Nightbringers/Temple_of_the_Nightbringers.pdf]]
+**** Maylin Lightfoot
+  - Male Halfing priest of Lathander.
+  - Examined [[Karl Barsmasher]] and [[Eleanor Argyle]] to verify that they're not undead or enchanted.
+  - Runs the [[Temple of Lathander]] in [[Farwood City]].
+  - Due to the possible implications of the lack of a reflection of some without any magical signs, has sent a message to [[Karborough Farshine]] in [[Waterdeep]] for counsel.
+**** Phillip Shieldhold
+ - Male middle-aged human high priest of [[Tymora]].
+ - Steward of the [[Temple of Tymora]]
+**** Irina Marmak
+ - Female middle-aged human high priest of [[Oghma]].
+ - Stewardess of [[The Library of Oskethellar]].
+**** Elsim Fadeleaf
+ - Male Wood Elven Priest of [[Silvanus]], the Forest Father.
+ - Opposes further growth of the city.
+ - Lives in the [[Temple of Silvanus]].
+*** Ruling
+**** Frederick Carr
+ - Middle-aged male human.
+ - Married to [[Andorra Carr]].
+ - Follower of Tymora.
+ - Alleged lord of Waterdeep.
+ - Member of the city council of [[Farwood City]].
+ - Will redirect to [[Catherine Royale]] for adventurers seeking ways to keep the city safe.
+ - Lives in [[Carr Mansion]].
+**** Andorra Carr
+ - Middle aged female human.
+ - Married to [[Frederick Carr]].
+ - Head of city planning of [[Farwood City]].
+ - Lives in works in [[Carr Mansion]].
+ - Likes being in control, but is unable to due to being in late-stage pregnancy.
+**** Catherine Romale
+ - Female tiefling fighter, middle aged.
+ - Former traveling companion of [[Frederick Carr]]. 
+ - Captain of the Executive Guard of [[Farwood City]], charged with the safety of all citizens.
+*** Bar
+**** Marmoun Glowkindle
+  - Human, head brewer at [[Wizard's Tower Brewery]]. 
+  - Paid 25g to Rabbit and Rurik for clearing the rats from the basement.
+**** Fred Glowkindle
+  - Came with [[Marmoun Glowkindle]] to check whether rats had been cleared
+**** George Glowkindle
+  - Came with [[Marmoun Glowkindle]] to check whether rats had been cleared
+  - Got hurt by the mosaic trap.
+*** Other
+**** Eleanor Argyle
+  - Female halfling Cartographer (former Scout)
+  - Rents a room in the tavern [[The Stout Dwarf]].
+  - Recently lost her reflection on her last excursion to the northwest of [[Farwood City]].
+**** Karl Barsmasher
+  - Male dwarf Hunter
+  - Lives on the northern outskirts of [[Farwood City]] in a small cabin ([[Cabin of Karbid Barsmasher]]).
+  - Recently lost his reflection while tracking a wolf pack to the west of his cabin.
+**** Kaladin Maer
+- Male elf
+- Adventurer
+- Hates goblins. 
+- First met adventurers at [[Blushing Pony Bar]]. 
+**** Caravin Bell
+  - Human, recruiter in service to [[Frederick Carr]].
+  - Recruited [[Rabbit]] and [[Rurik]].
+**** Winsome Landy
+ - Halfling scholar archeologist.
+ - Kicks off 'Horror at Havel's Cross'. 
+ - Staying at [[The Stout Dwarf]].
+ - [[../Adventures/D&D5/Low-Level/Horror at Havel's Cross/s_Cross_V1.pdf]]
+**** Roger Filath
+ - His son, Milas Filath, has been abducted recently!
+ - The ransom is for 1000gp, which they can never pay.
+ - The guard is investigating.
+ - Starts 'The Abandoned Farmhouse'
+ - [[../Adventures/LotFP/Better_Than_Any_Man_(10102966).pdf]] (Page 76)
+
+** From Carrowmaw
+*** Medea the Witch
+- 60 hp
+- Mottled, green skin
+- Survives horrible things
+**** Spells
+- Control limb (lasts 30 seconds, constitution save)
+- Grow gills (lasts 30 seconds, no save)
+- Liquify bones (targets legs). Constitution save. Target is prone and can't get up.
+- Horrify: Target is frightened for three turns.
+- Firebolt: 2d4 + 6 damage.
+- Bonus Action: Potion of fire breath: After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed.
+- Bonus Action: Seize Control of single enemy target for next turn. DC 10 intelligence save.
+- Lair action: Animate object and attack with it. Object stays animated.
+**** Loot
+***** Table 
+****** Jewelry box
+Opal, Zircon, Topaz, Acquamarine rings (50, 50, 500, 500)
+Necklace with image of a bleeding, bound man (history check, symbol of ilmater)
+****** Orb of Eternal Alchemy
+- Absorbs energy from souls transitioning to the realms of goodly gods
+- While fed, temporary potions within a twenty foot radius don't expire.
+****** Books
+- [[Garn]]
+- 101 Recipes for Long Pig by Fred Cleaver. Picture of a happy-looking guy with a knife and a pie on the front. Kitchen looks cozy. Can be sold for 25g.
+- Dealing with Adventurers by Aerginnomax. Leather bound. Can be sold for 25g.
+- A Hags' Guide to Alchemy. Catalog of thirty different potions, with visual description.
+***** Alchemy Shelves
+- Six pink potions (polyjuice)
+- Nine dark red potions (shrink + knockout)
+- Two red-orange-fiery-pattern potions of Fire Breath
+- One clear potion of invisibility
+- Two potions of healing
+***** Ingredient Shelf
+- Smells gross.
+- Four giant toes
+- Seven tiny human ears
+- Assorted flowers. 
+***** Oven
+- Small child roasting. Dead. Smells good.
+*** Garn
+- Small book bound with human skin
+- Sentient, owner of skin bound to the book
+- Any text written in any language can be read back in native tongue
+- Forty pages, all made out of skin.
+**** Existing topics
+- Warning about Muradin taking the souls of any who venture here. Glyphs.
+- Recipe for blueberry pie. One of the ingredients is a hill giant's toe. Everything else is just like normal blueberry pie. Looks elfish.
+- A story told by someone seemingly trapped deep within a dungeon, writing on a wall. Describes party being devoured by gnolls. Mad-looking glyphs.
+- Instructions for creating the Orb of Eternal Alchemy. Requires a fingernail of Asmodeus and a bound water elemental. Written in infernal.
+- Describes the process for entering a painting called the "False Chanterelle". It involves thrft and a moonlit room.
+*** Ethan Horowitz
+- Bounty hunter from waterdeep
+- Two drow hand crossbows and a greatsword
+
+*** Richard Tinn
+- King of Carrowmaw
+- 87 years old
+- Grieving over the death of his son, [[Mayard Tinn]]
+*** Mayard Tinn
+- Prince of Carrowmaw
+- 14 years old
+- Died of Hemophilia
+*** Ariel Iltazyarra
+- Kir of Conjuration
+- 50s, mother of Allison Iltazyarra
+**** Mount: Zyrmistrith
+- Fifteen-foot long body, last 7 feet are tail. Tail becomes circular near the tip, with a sarlacc-like mouth, 3 by 3 feet.
+- Like huge Manta ray, but with lizardlike face, a crown of forward-facing horns protecting its neck.
+- Swarm of tentacles emerge from below it, holding it when on the ground, and writhing wildly when in flight.
+** From Neverwinter
+*** Arunika
+ - Succubus
+ - Resurrected by [[Kwarl Salindar]].
+ - Charmed [[Earl Karlin]], convincing him to trap [[Uravulon Calcidius]].
+*** Kwarl Salindar
+ - 11th level Gnome cleric of Bane, War Domain.
+ - If captures PCs, begins [[Captured by Thayans]] storyline.
+ - 54 hp
+ - 17 ac
+ - Envoy of Thay, based in Neverwinter.
+ - Resurrected [[Arunika]].
+**** Spell Lists
+6: Harm
+5: Mass Cure Wounds, Raise Dead
+4: Banishment, Death Ward
+3: Revivify, Meld into Stone, Dispel Magic
+2: Prayer of Healing, Silence
+*** Kass Darkmantle
+- Old Thayan rival of [[Uravulon Calcidius]] who had been assassinated and bound to Uravulon's scrying well as a divination aid and guard.
+- Father of [[Anita Darkmantle]].
+- Wants proper release into the afterlife, and wants [[Uravulon Calcidius]] dead, but his will isn't his own.
+*** Anita Darkmantle 
+- 7th level Thayan female human rogue
+- If captures PCs, begins [[Captured by Thayans]] storyline.
+- 16 ac
+- 45 hp
+- Advantage against opponents who haven't acted in combat yet.
+- Mage Slayer feat (Advantage on saving throws against spells from 5 ft, can use reaction against spellcasting within 5 ft to attack).
+- Strikes with Rapier (3 + 1d8) and dagger (1d4) for total between 5-15.
+- Strikes for  8 + d8 damage
+*** Farissa Mayfield
+ - Young human female.
+ - Originally taken as indentured servant for the family's inability to repay a loan, then sold into slavery to the Thayans.
+ - Vampire cattle for [[Thenn Darkshadow]] in the [[Tower of the Stargazer]].
+ - Survived by killing [[Glenn Fiddlestick]], fellow vampire cattle in adjacent cell, and eating him.
+ - Bloody, scratched up face.
+ - Hungry, thirsty, but in pretty good shape.
+*** Thenn Darkshadow
+ - Scholar
+ - Human vampire serving [[Kwarl Salindar]].
+*** Kent Marwood
+ - Middle-aged human male
+ - Former Ashmodai zealot, taken captive by the Thayans and enslaved.
+ - Vampire cattle for [[Thenn Darkshadow]] in the [[Tower of the Stargazer]].
+ - Survived by consuming rats. Emaciated, but alive, having been given one of [[Glen Fiddlestick]]s arms to chew on by [[Farissa Mayfield]].
+** From Waterdeep
+*** Lord Neverember
+ - Human, Lord of Waterdeep, involved in rebuilding of Neverwinter.
+*** Karborough Farshine
+ - Male gnome wizard and scholar.
+ - 12th level wizard.
+ - Elder member of Waterdeep's Watchful Order of Magists and Protectors.
+ - Particularly skilled at conjuration.
+ - Former traveling companion and associate of [[Maylin Lightfoot]].
+** From Tower of the Stargazer
+*** Uravulon Calcidius
+- 13th level wizard
+- 13 ac
+- 65 hp
+- Owner of [[Tower of the Stargazer]]
+- Spell effect in tower: DC 10 athletics check. On failure, hand extending from the wall grabs you and does (2 + d4) damage
+**** Spell Lists
+7: Prismatic Spray
+6: Globe of Invulnerability
+5: Dominate Person, Cone of Cold
+4: Dimension Door, Wall of Fire, Greater Invisibility
+3: Lightning Bolt, Fireball, Dispel Magic, Vampiric Touch
+*** Earl Karlin
+ - Human
+ - Apprentice of [[Uravulon Calcidius]].
+ - Found petrified with a stunned expression on his face right beyond the front door of the [[Tower of the Stargazer]].
+ - Charmed by [[Arunika]], and betrayed [[Uravulon Calcidius]] to trap him in his study.
+*** Glenn Fiddlestick
+ - Young human male
+ - Mostly consumed by [[Farissa Mayfield]] and [[Kent Marwood]].
+ - They say he died of thirst first. It's a lie.
+*** Mirror-self of Eleanor Argyle
+ - In a cell in [[Tower of the Stargazer]]. Uneaten, rotting arm of [[Glenn Fiddlestick]] is laying in the cell.
+ - If released, will rush towards [[Voloija's Mirror]], run in, and keep running.
+ - Will be muttering to self in uncertain language, be unable and unwilling to communicate with anyone on this side of [[Voloija's Mirror]].
+*** Askim 
+- Nothic
+- Used to be a powerful wizard, cursed, doesn't remember much.
+- Helper and assistant to [[Uravulon Calcidius]].
+- Trapped behind this spell wall by [[Earl Karlin]].
+- Wants to rescue [[Uravulon Calcidius]], who was researching ways to return Askim to his natural form.
+** From Deep Carbon Observatory
+*** Nadelyne Xorlarrin
+- Former matron mother of Xorlarrin of Menzoberranzan, splintered off from the house to construct the observatory.
+*** Ozzox Fireheart
+- Talonblessed paladin
+- Prince of the Fireheart clan
+- Son of [[Tiberius Fireheart]]
+** From Ethermaw
+*** Adalina Fairweather
+*** Lord Gerard Mayworth
+- 50
+- Noble, wearing deep purple vest, dark pants, hair slicked back.
+- Small talon scar under his left eye.
+- Leader of the rebellion against [[Carrowmaw]].
+- Enthralled by [[Uravulon Calcidius]], but was considering rebellion already.
+- Desires to be king 
+- Desires to rid the land of racist laws
+- Desires to leave his two children (Isabel and Caterina) a great land to rule
+- People are a bit skeptical, but loyal to their him; he is seen as an honest, generous, though ambitious man.
+
+** From Malgreif
+*** Broms Meyer
+- Commander of Malgreif
+- Former Thayan, member of the Brotherhood of the Griffon.
+- Cone of Cold, Fireball, Misty Step, Counterspell, Mage Armor, 18 AC, +8 to hit, Scythe, 10 + 2d6 damage
+- Griffon's name is 'Terror'.
+*** Alexis Siannodel
+- Wood elf, head Griffin Caretaker
+- Learned from Broms and books.
+- Master Thief + Archer stats (bow + swords), ranger, can command Griffons. 40 HP
+*** Korsantos Oregar
+- Drill Seargeant of Malgrief
+- Veteran, 80hp, +5 damage.
+
+*** Kalisan Margo
+- Warlock
+- Member of the Red Circle of Carrowmaw
+- Can summon a hell hound (3) or bearded devil (3)
+
+** From Kinlan
+- Network of the Fireheart clan, to the North of [[Ethermaw]] and west of [[Azmorad]]
+*** Old King Tiberius Fireheart
+- 130 years old
+- Father of [[Ozzox Fireheart]]
+*** Tunist Massix
+- Companian of [[Ozzox Fireheart]], level 3 cleric
+** From Alamandar
+*** Vanganderbastos
+- Green dragon
+- Young Adult (140 years)
+- Savior of the royal family of Tyarados
+- Not too into the whole 'Evil Tiamat-worshipper' thing.
+- A bit naive.
+- Likes to be referred to as 'Tyran' when in human form. Used to be a patron of Tyranturos.
+- He's pretty into Eveline.
+
+*** Eveline Meyer
+- Rightful princess of Tyarados
+- Calculating, but socially awkward.
+- Pretty into Vanganderbastos/Tyran.
+- Likes bossing kobolds around, but struggles to reconcile that with them wanting to hurt her.
+- Wants to be in a position to boss humans around too.
+
+*** Sonya Meyer
+- 80 years old, former wife of Artemis Meyer, King of Tyarados (deceased)
+- Old-fashioned, big fan of kobolds.
+
+** From Cognezol
+*** Niknik Cognezol
+- Aging male goblin king of Cognezol
+*** Putkin Mik
+- Middle-aged male hobgoblin advisor to Ninik Cognezol.
+*** Eliza Farmayson
+- Female high elf serving as ambassador from Silverymoon
+*** Known as Amoth
+- Aboleth
+- In control of most mortals in [[Cognezol]]
+- Drawn to the region at the behest of the aboleth sovereignty due to [[The Far Path]].
+*** Akin Mokmok
+- Level 5 Goblin Wizard
+- 24 hp
+**** Spell list
+- 0: Dancing Lights, Firebolt, Friends
+- 1: Chromatic Orb, Sleep
+- 2: Darkness, Enlarge/Reduce, Invisibility
+- 3: Fireball, Counterspell
+** From Zietmar
+*** Aksin
+- Nightcrawler
+- Five-foot tall, looks like Lord Voldemort from torso up, huge centipede waist-down (10 feet of centipede)
+- Ageless
+- Scavenger; consumes corpses, acquires knowledge
+- Digs tunnels, clawed hands
+- Perceives time differently, has little of value
+** From Azmorad 
+*** Psathyrella
+ - 3500 year old medusa.
+
+** From Martintown
+*** Bower
+- BArtender
+*** Zasz
+- From kobold village
+* Locations
+** Other
+*** Mustafar
+*** Cabin of Karbid Barsmasher
+ - Smelly, but clean.
+ - About four hour's walk north of [[Farwood City]].
+ - Three rooms
+** Major Dungeons
+*** Tower of the Stargazer
+ - [[file:..\Adventures\LotFP\Tower_of_the_Stargazer.pdf][Tower of the Stargazer]], Map Page 30
+ - Tower of [[Uravulon Calcidius]]
+ - A day west of [[Cabin of Karbid Barsmasher]].
+**** Modifications
+***** In Servant's Quarters(9)
+ - Four vials of blood (on nightstand).
+ - Key to cells in the dungeon (in nightstand).
+ - Very large, good-quality gray cloak with expansive hood.
+***** In Servant's Quarters (10)
+ Wizard's component bag (mostly bat guano) on nightstand.
+****** Box under bed
+ - Rauchy letter from [[Arunika]] to [[Earl Karlin]] thanking him, promising more, and instructing him to aid [[Thenn Darkshadow]] in his exploration of the tower (in nightstand).
+ - Two vials of blood.
+ - A thong.
+ - A wooden stake.
+***** In the Wizard's Quarters 
+****** Table
+ - Scroll of Dimension Door (on)
+ - Two healing potions (on)
+ - One Alexandrite gemstone (Transparent dark green, 500gp) (on)
+ - Pair of engraved bone dice (25gp) (on)
+ - 7 beads of teleportation (in)
+ - Scroll of Longstrider
+ - Book (The Travels of Asmodeus) 
+****** Bed
+******* Lockbox (DC 15 to see)
+ - Wand of Rememberment
+***** In the Library
+****** Glasswork Tomes
+ - The Devil in the Glass
+ - Enhancing the View
+ - Cerebral Spycraft
+****** Light Tomes
+ - The Nature of Vision
+ - An Explanation of the Eye
+ - Electromagnetic Reality
+ - An Examination of the Consequences of Relativistic Effects
+ - Reconciling Relativism and Reality 
+****** Metalwork Tomes
+ - The Construction of the Maelid Cathedral
+ - Metalworking for Dummies
+ - The Everlasting Forge
+****** Hidden
+ - Scroll of Remove Curse
+***** The Ghost
+ - Ghost of [[Kass Darkmantle]].
+ - Bound to defend itself, protect the room its in, protect [[Uravulon Calcidius]], and protect the scrying well. As long as one of these exists, the ghost will be bound.
+***** Room of Voloija
+ - Replaces rooms 20-22.
+ - Door on east side, mirror on west side.
+ - Bloody shackles lie to the left of the mirror (facing it).
+ - Broken shards of glass litter the room, with frames of broken mirrors covering the walls.
+ - Trail of blood leading from mirror to the door, getting less and less noticable.
+ - [[Psathyrella]]'s petrified reflection, still holding her mask, staring through the door.
+ - When a PC approaches to within ten feet of the mirror they may notice a bloody, mad-looking [[Thenn Darkshadow]] on the other side, who will try really hard to reach the player.
+ - When [[Thenn Darkshadow]] fails, he will turn his attention to the reflections of the players. After one reflection is attacked, the rest will flee.
+***** In the Eldritch Library
+****** Communication with Other Worlds
+ - What's out there?
+ - Prophesies of Shamazzaraggar
+ - Denizens of the Moon
+****** Creatures From Beyond
+ - A Discussion with an Aboleth
+ - Mapping the Far Realm
+****** Scrolls about knots
+ - Why knot?
+ - 100 and 1 ways to tie a knot
+****** Hidden
+ Scroll of Ray of Enfeeblement
+ Scroll of Expeditious Retreat
+ Scroll of Sending
+ Scroll of Feather Fall
+***** Dungeon Level 2
+ - 20' by 25' room
+ - 20'x20' portion sealed off by magical wall, triggered by a switch.
+ - Nothic [[../Rules/D&D/DnD 5e Monsters Manual.pdf]] page 236.
+ - Nothic used to be a wizard, doesn't remember much now. Wants to be released, and will say anything to accomplish that. Prefers to avoid fighting anyone.
+
+***** Treasure Room
+ - Magical barrier blocks the room
+ - [[Askim]] behind the barrier.
+ - A star pattern, drawn with chalk, is present in the corner of the room. A small bowl of fire is in the middle of it. Removing the bowl or putting out the fire will cancel the spell wall.
+ - Three tables and a chest in the room.
+****** Table 1
+ - Necklace of Detect Malice - Will get warm when substances meant to harm the wearer are nearby. Inlaid ruby. 100gp. Can be sold to common assassination targets for more.
+ - 1 bloodstone (50gp)
+ - 1 azurite (10gp)
+****** Table 2
+ - Large focusing crystal (really big transparent shiny gem) (400g)
+ - Cracked focusing crystal (2/3 size of large, in two pieces, 10g each).
+ - Potion of Invisibility
+ - Two empty vials (same kind as potion of invisibility).
+ - Two potions of healing
+****** Table 3
+ - Potion of fire breath
+ - Small portable folded mirror
+ - 3 g
+ - Embroidered silk hankerchief (nothic pattern)
+ - Book: 5 Habits of Charismatic Aberrations by Aelithirrronginothenigaramarun
+****** Chest
+ - 372 g
+ - Old leather boots
+ - Worn green cloak
+ - Spyglass
+***** Telescope Room
+***** Items
+ - Scroll of Hypnotic Pattern
+***** Other
+****** Cells
+ - Cell with fifteen-armed and four-spined skeleton has no keys, is enchanted, and isn't easily openable.
+ - Cell with [[Farissa Mayfield]] adjacent to cell of former-[[Glenn Fiddlestick]] adjacent to cell of [[Kent Marwood]].
+ - Separated cell with the mirror-self of [[Eleanor Argyle]]. Somehow not emaciated, and alive. Huddled in a corner of her cell.
+*** Asulis, Temple of Shar
+- [[../Adventures/D&D5/Low-Level/Temple of the Nightbringers/Temple_of_the_Nightbringers.pdf]]
+**** Goblin loot table
+2d10
+|  2 | Some really fine sci-fi literature, written in goblin. Spaceships on the cover.                                                 |
+|  3 | horrifically spiky sex toy                                                                                                      |
+|  4 | Book, heavily annotated, in common, about quilting, toymaking, farming, or mining.                                              |
+|  5 | goblin-gnollish, goblin-common phrasebook                                                                                       |
+|  6 | a dwarf beard or elf scalp                                                                                                      |
+|  7 | scrap of paper marked in orcish “I.O.U. fiddy gold - Hrunk da Ogre”                                                             |
+|  8 | pet rat (2 in 6 chance bitten for 1 dmg, 50% diseased)                                                                          |
+|  9 | key to a nearby door or chest (50/50 chance)                                                                                    |
+| 10 | d6 (3) gold pieces                                                                                                              |
+| 11 | 3d6 (12) silver pieces                                                                                                          |
+| 12 | half eaten onion, turnip, parsnip, etc.                                                                                         |
+| 13 | pair of knucklebones (50% chance loaded)                                                                                        |
+| 14 | vial of vile hooch                                                                                                              |
+| 15 | holy symbol of some evil religion, wooden                                                                                       |
+| 16 | children's toy (miniature horse, miniature wagon, goblin plushie, human plushie)                                                |
+| 17 | small tin of black lotus powder (d6 doses, the cheap knock-off variety that still gets you high but tends to kill repeat users) |
+| 18 | treasure map (35% chance ineptly made)                                                                                          |
+| 19 | small pot of pepper (worth d4gp or so in some pseudo-medieval campaigns)                                                        |
+| 20 | hole in pocket; you just accidentally touched goblin nuts, dude!                                                            |
+**** Modifications
+- Community of 60 adult goblins live here, of which 30 are female, and forty are capable warriors. Additionally, there are six children.
+***** Outside
+- At least four goblins are positioned as scouts and first-line defenders.
+- One is common capable.
+***** 1 In foye 
+- Four additional goblins on guard duty, one common-capable. If odds seem dangerous, some will rush off to warn the rest of the clan.
+***** Guardroom -> Worg Room, Store Room -> Worg Room 2 & 3 
+- Filthy rooms with two worgs in each. Doors are closed, but openable from the inside; a goblin may rush in here to release these.
+***** 4 Dormintory -> Store room.
+- Mining equipment
+- Food (not great, but okay)
+- Sewing equipment
+- Other stuff, some of it very similar to that in human cities.
+***** 5 Library
+- Prisoners were locked in here, room was locked and chained up and returned as zombies. Six zombies inside.
+***** 13 Dormintory
+- Eight beds
+- Equivalent of three table-rolls hidden in the room.
+- One goblin asleep, but may wake up due to commotion.
+- Door closed, but not locked.
+
+***** 14 Guest room
+- Visiting hobgoblin captain is in here.
+- Door here is closed and not locked, though hobgoblin captain "Ainsin" may lock it from the inside. (DC 15, DC 20 if objects moved against door)
+- 40g on Ainsin
+- Book of notes on the economy of Asulis.
+- Small, ebony statue to a beautiful, cruel-looking, woman with her hand on the head of a man half her size, bowing his head.
+***** 6 Prayer room
+- Large ebony statue to beautiful, cruel-looking woman, but with head missing stands at the front. 
+- Slightly smaller, white, statue of a very large, very intimidating looking goblin of surprisingly detail is near the statue of Shar.
+- If there is advance warning, goblins may make a stand here, overturning tables to provide cover. If not enough advance warning, only two goblins.
+- Standing in front of the two statues will invigorate any chaotic or evil character to stand there.
+***** 7 Summoning room
+- Level 3 goblin wizard (speaks common and goblin and infernal) with imp in here.
+- 20 hp
+- 14 ac
+- Cantrip: Firebolt, mage hand
+- First level: Shield, Magic Missile
+- Loot: Scroll of Magic Missile, Potion of climbing, fancy purple hat with stars on it, 2 x potion of healing, driftglobe
+***** 15 Armory
+- Filled with axes, swords, crossbows, longbows, leather armor. Nothing too fancy. Quartermaster has stats of goblin boss. 
+***** 8 Dining hall 
+- 30 goblins in this room, eating. If fighting happens, ten will flee, ten will try to get weapons from armory or elsewhere, ten will have weapons immediately and will fight.
+- Multiple tables for goblins to flip and use as cover
+- They're eating turkey!
+- Lots of delicious food, and goblins are somewhat drunk
+***** 9 Kitchen
+- Head goblin chef, stats of goblin boss (with cleaver and knife, no scimitar). AC 15. Find some delicious food. 
+- Chef has box of holding with a loooooot of bread and other foodstuff in it. 50 pounds, 3x3x3 feet, but can carry a loooot.
+***** 10 Inquiry chamber
+- Feel of dread and torment.
+- Machines of torture litter the place.
+- Iron maiden in the corner. It's empty.
+- Hooks, spikes and pinchers which must've seen many visitors along the back wall.
+- Stretcher in another corner. There's some fabric bits on it.
+- Loom in the corner
+- Stack of linen fabric lying in the corner.
+***** 16 Artifactory
+- Lots of needles and thread, this is where the goblins sew things they trade with others.
+- May be up to 14 goblin females, including two young goblin girls.
+***** 11 Prison
+- Locked door with guard. Beyond it is a room with two current prisoners, taken from a human village for leverage to return or get payment for captured/killed goblins.
+- Prisoners may knock on the door to ask to be released.
+***** 17 Nursury/Child room
+- Toys litter the floor
+- Cradle with baby goblin in the corner. Aww. 
+- Some non-combatant goblins may be here. They will offer to leave, or beg for their lives.
+- Six beds. More toys under them. Some childrens clothes in the nightstand.
+- Tapestries lying in the corner.
+***** 18 Dormintory
+- Twenty beds, some nightstands, wardrobes. 
+- Loot: A lot of clothing, some 10xstuff-in-table, 100g total.
+***** 12 High Priest's Chamber
+- Ornately Furnished
+- Room of head of the compound
+- Stats of goblin boss.
+- Chest in the corner has 150g and a golden necklace with small ruby worth 100g.
+- Stack of 3 tapestries in the corner, 40g each. Tapestries of shar.
+- One tapestry on the wall worth 80g showing a medusa embracing three beautiful women, with petrified men swinging swords at them in the background
+- Wearing medium mithral armor.
+- Two silver goblets worth 15g each.
+
+*** Deep Carbon Observatory
+**** Cafeteria
+1: Blink-style drow high priestess
+2: Human dartboard
+3: Human skeleton, 15 arms, 3 spines
+4: Table shield, skeleton on other side. Arrows embedded in table.
+**** Male Dorms
+| Small mechanical windable spider                                                                                                |
+| Booklet of dark elvish handwritten poetry                                                                                       |
+| Spider pendent on a chain, opens to a portrait of a male and female dark elf, elegantly dressed and regal                       |
+| Corkscrew                                                                                                                       |
+| Delicate silk footwear, looks like it may wear out easy but super comfy.                                                        |
+| Measuring tape, unknown units.                                                                                                  |
+| One tiny hand-crossbow.                                                                                                         |
+| Tiny dagger that unsheathe mechanically, meant to be stored in ones sleeve.                                                     |
+| Portrait of an ecstatic female dark elf with stern features torturing a wood elf male with a whip with four snakes. Very faded. |
+| Playing cards                                                                                                                   |
+| A male dark elf doll with a sword. Made of iron, painted with black uniform with golden trim, has real dagger as a toy sword    |
+**** Female Dorms
+
+| Vial of perfume.                                                                      |
+| Lip balm. Paralytic.                                                                  |
+| Piwafwi                                                                               |
+| Lighter-like device                                                                   |
+| Small vial of oil                                                                     |
+| An oval-shaped soapstone tablet inscribed with a short list of religious prohibitions |
+|                                                                                       |
+**** Lolth Temple
+- An imposing giant statue of Lolth, an attractive dark elf woman with spider legs coming out from behind her, stares at you as you enter. 20 ft tall.
+- A small, 1ft tall likeness of her staring up, legs clutched around her, stands on a small pedestal in front of the large statue. 
+If it's picked up, spiders will swarm until it is replaced, attacking the holder of the statue. Spiders bite paralyzes over thirty minutes, kills over a day.
+- 3 skeletons in the pews, hands together in prayer.
+***** Library of Religious Scriptures
+- Door locked
+- 2x scroll of flesh to stone
+- 2x scroll of stone to flesh
+- Crumpled bones in the corner wearing Magical ring (ring of death spirit)
+- Tiny hand-crossbow, scimitar
+***** Drow Psychology Room
+- Skull On the door
+- Skeleton with legs inside near door, still standing. Upper body missing.
+- Magically Trapped: First person through makes DC 15 con save, or feet stuck to floor.
+***** Priestess Dorms
+****** Main
+- Sound would ring in the room when a magical ward detects that someone entered.
+- 4 tables, 14 chairs scattered, 
+- Hole up to the kitchen
+- Spider mask (black with purple mandibles and eyes), made from adamantine
+- Switch (enabled) disarms trap in drow psychology room. Click sounds here when trap is sprung.
+****** Room 1
+- Scroll of lesser restoration
+- Small spider figurine (iron)
+- Faded old religious tome. Pages crumble when opened.
+****** Room 2
+- Three short, squat skeletons (dwarves). 
+- Old plate armor, old chain armor, old battleaxe, old armored hat
+- One drow skeleton, axe embedded in its skull
+****** Room 3
+- 3 headed snake whip
+- dried ink, a letter being written
+
+**** Kitchen
+Hole down to priestess dorms
+**** Prison
+**** Armory/Storage
+- Hole to prison
+- 100 pounds of cervit, a completely flameproof material. As bars, in top right corner. 10g/pound
+- Ten jars with glowing green substance inside. Jars are multiply reinforced. Unknown value. (uranium)
+- 300 pounds of salt crystals. Over time the salt has grown, crystallized, spread. 5g/pound
+- 5 bales Low-quality silk. 5lb each, 20g each.
+- Salt elemental 'Nadia' can be found here.
+- 80 boxes of drills, pumps, saws, hoses.
+- 3 jars of glowing white liquid. 15 pounds each, unknown value. (this is the conductor)
+- One heartbeat blade; if pointed in direction, all heartbeats in that direction will be superimposed into a single signal (40 ft range)
+- Climbing pickaxes; can climb while equipped.
+- Redshift lanterns.
+- Iron swords, katanas, polearms, tiny crossbows with no strings
+- Metallic crossbow strings, aged (50% break chance per use)
+***** Matriarch Suite
+- Magically locked door. Symbol: http://vignette2.wikia.nocookie.net/forgottenrealms/images/e/e7/Intheworks_menzo5_House_Xorlarrin.jpg/revision/latest?cb=20140630191830
+- Inside is a carapace with the preserved matron mother inside. It pulses gently. She can be awoken with magic, or when the giant is dead. Her name is Nadelyne Xorlarrin.
+- Bookshelves empty. 
+- Locked treasure chest in the corner. Inside is 'The Crescent'.
+- Latrine in the room.
+- Wall is a map of the underdark, with specially marked X marks in certain locations. No legend.
+- Small adamntine lolth statue in corner.
+- Potion on table will show drinker visions of what Lolth needs them to do.
+- Tapestry on the wall
+- Five headed snake whip in the corner.
+***** Ambassador Suite
+- Dry husk of what used to be an illithid. Stabbed through by the spear. 
+- One dwarf skeleton lying in the corner. The right side of his skeleton is scorched.
+- This room is clean and was once handsomely furnished, but time destroys all.
+
+***** Head Priestess Suite
+- Room looted
+- Treasure chest empty. Fake bottom hides sex toys, a poison bottle,
+- 
+***** Weapon Master Suite
+- Adamantine weapons of all types on rack.
+- Dropped near the door +1 Adamantine greatsword
+- Small designated area for sparring
+- One potion of lesser restoration on the table
+- Playing cards on the table
+- 
+
+*** Malgreif
+**** Fort Malgreif
+***** Troops
+|   | Priest (2)                                       |
+|   | Knight (3)                                       |
+|   | Mage  (6)                                        |
+|   | Guard (1) 35 hp, 2 + 2d6 damage,                 |
+|   | Veteran (3)                                      |
+|   | Illusionist (3)                                  |
+|   | Griffon Knight (as Guard, but can mount Griffon) |
+|   | Griffon (2)                                      |
+|   | Transmuter (5)                                   |
+
+***** Loot Tables
+****** Books
+| In the Labyrinth of the Caretaker     | Musty tome describing a self-described adventurer's guided tour through a Labyrinth where a fine lady locks up dangerous from across the land.                                                                   |
+| The 66 Layers of the Abyss            | A careful, detailed description of the last 66 of 666 layers of the abyss.                                                                                                                                       |
+| The Year of Blue Fire                 | A historical account of the consequences of the Spellplague, focusing on western Fearun                                                                                                                          |
+| Orcs: A Treatise on their Success     | A historical analysis of orc civilization, reconciling their success and their stupidity. Conclusion: Orcs are mostly dumb because they hit each other on the head a lot. Top orcs don't get hit, and are smart. |
+| Flora and Fauna of the Underdark      | Discusses Hook Horrors, Azimoths, and more.                                                                                                                                                                      |
+| Abyssal Beasts and Where to Find Them | Includes Myrmixicus, Skulvyn, Vrocks, Chasme, Alazeetu, Zyrmistriths                                                                                                                                             |
+| Griffons and Hyppogriffs              | A comparison of the two, with fairly detailed instructions on what is needed to make them into nice pets.                                                                                                        |
+
+****** Trinkets
+| Corkscrew                                                                                                                     |
+| Bottle of 'Magic Hat' beer. Filled with water now.                                                                            |
+| Carrowmaw mead from the Vish'aw wine-and-meadery.                                                                             |
+| A razor                                                                                                                       |
+| A haircomb                                                                                                                    |
+| Some foundation and lipstick; makeup                                                                                          |
+| Two perfectly identical pinecones                                                                                             |
+| Pepper shaker. A delicacy!                                                                                                    |
+| Cap of Everdry. Liquids just slide off!                                                                                       |
+| A towel with a set of instructions embroidered on it that clearly state to wear it on the head in case of mind flayer attack. |
+| A figurine of a fiend, so lifelike it seems like it might come to life and attack any second.                                 |
+| A panther figurine                                                                                                            |
+| A treasure map, X marks the spot. Seems to be west of Carrowmaw.                                                              |
+| Deck of playing cards                                                                                                         |
+
+****** Humanizing
+| A locket with a tiny painting of a small boy's face inside. He seems to be posing for the painting.                                                                         |
+| A letter from what seems to be the holder's sweetheart, Tisa. She wants him to come back to Carrowmaw quickly, to see their child.                                          |
+| Parchment with a crude drawing of a man flying on a griffon. Looks to have been drawn by a child.                                                                           |
+| A crude pornographic drawing. Short love letter on the other side. To Jahar, from Bella.                                                                                    |
+| A request for a discreet rendezvous in town from an admirer named 'Brom'.                                                                                                   |
+| Piece of parchment with a calendar on it. Holidays like Midsummer and Shieldmeet marked off; seventeen days from now, a big X, it says 'Going back home!'                   |
+| Small diary; seems to be of a soldier who is cataloguing the progress of raising of his future mount, 'Marauder'. Some well-done sketches of the griffon at different ages. He seems so excited! |
+| Small book; seems to be a catalog of bets and owing of money between the troops. Some entries are crossed out. Gambling seems to be a big deal here!                       |
+
+**** Tyranturos Crossing
+- Heavy stone bridge, 5 man abreast could walk across it. 15 feet of water.
+- Inn on the crossing, 'Pyre's Rest'. Inn was built after [[
+** Major Cities
+*** Alamandar
+- Kobold city
+- Ruled by [[Vanganderbastos]], a green dragon.
+- South of [[Azmorad]], East of [[Ethermaw]]
+*** Azmorad
+**** Artifactory
+**** Ebony Palace
+***** Alchemediary
+****** Alchemy Ingredients
+Athelas
+Orc Pepper
+Wyvern Stinger Venom
+Black Dragon Tongue
+Mageroot
+Briarthorn
+Gravemoss 
+Liferoot
+Canis Root
+Oil
+Ectoplasm
+Giant Toe
+Hag Toe
+Assorted eyeball jars (segregated by species)
+Assorted brain jars (segregated by unit and species)
+Assorted other organ jars
+
+****** Potions
+- Healing potion x2
+***** Throne Room
+- Chandelier worth 5k if sold
+- Psathyrella
+***** Psathyrella's Room
+- False Chanterelle
+- Bed. Big, fancy, with curtains and everything.
+- Tiny immortal lockbox
+****** Jewelry Box
+- Gold snake choker (500gp)
+******* Large tapestry with five slides
+- A goddess blessing a woman giving bird
+- Three women, with red, blue and green lighting, being worshipped by a crowd
+- The women still in the middle, but in the background now is fire and destruction and death.
+- Two men and a woman leading the three away from the destruction.
+- Psathyrella inviting them all in. The top-right corner of the slide isn't completed.
+
+- Worth 3000g.
+
+- There is a knitting kit nearby, and the top-right 
+**** Prison
+***** Gilk
+  - Kobold alchemist, acquaintance of Zasz
+***** Mabel Carrie
+- Recently disappeared girl from Ethermaw City
+- Being tracked by 
+
+*** Ethermaw
+- Second largest city in [[Carrowmaw Valley]].
+- Flat city, except crater in middle, hundreds of meters across. Housing has been built on the crater. There used to be a magical university there, providing wizards for the whole valley.
+- Large crater off-center of the city. It has been built over nicely, 
+**** Mayworth Estate
+- Large manor, very busy.
+- Tents surrounding it, visible signs of an army being formed in the vicinity.
+- Soldiers in red uniforms training, sitting, drinking.
+- Cages with some folk in rags are visible near a large tent. Prison?
+- Peasants seemingly being herded towards a registration booth.
+- Manor has well-dressed folks walking around, seems to have become a hub for professionals and country management types.
+- Room to the right upon entering the building is office of [[Gerard Mayworth]].
+- Pentacle in the room beyond the office of [[Gerard Mayworth]].
+*** Farwood City
+***** The Spire
+ - Seven floor-high structure. Irregularly shaped.
+ - First two floors are devoted to a town hall meeting room.
+ - In center of [[Farwood City]].
+**** Old District
+***** The Stout Dwarf
+  - A small tavern and bar within the walls of [[Farwood City]].
+***** The Library of Oskethellar
+  - Library and temple of [[Oghma]].
+  - Under the jurisdiction of [[Irina Marmak]].
+  - Three floor, circular library, all in one massive chamber (higher floors on balconys along circumference of the temple).
+  - In the center is a dias and four tables, upon which contracts are struck and observed.
+***** Temple of Tymora
+  - Run by [[Phillip Shieldhold]].
+**** Highgardens
+***** Carr Mansion
+  - Large mansion near the center of [[Farwood City]] owned by [[Frederick Carr]].
+  - East Wing of the mansion is reserved for use by the City Planners, headed by [[Andorra Carr]].
+***** Cabell Manor
+ - Begins 'The Hound of Cabell Manor'
+ - [[../Adventures/D&D5/Low-Level/The Hound of Cabell Manor/The_Hound_of_Cabell_Manor_v2.pdf]]
+**** The Artifactory
+***** Wizard's Tower Brewery
+   Located on the outskirts of town, near [[Blushing Pony Bar]].
+****** Liquors
+   - Dwarven Bottom - Imperial Stout
+   - Elven Hat - IPA
+***** Blushing Pony Bar
+   Located on the outskirts of town, near [[Wizard's Tower Brewery]].
+****** Liquors
+   - Dwarven Bottom
+   - Elven Hat
+**** Yellowtown
+***** Temple of Lathander
+  - Run by [[Maylin Lightfoot]].
+**** Outside the City
+***** Temple of Silvanus
+ - Run by [[Elsim Fadeleaf]].
+ - Temple is in the base of an ancient oak, still growing strong.
+*** Cognezol
+ - Goblin city 2/3 day north and 2 days west of [[Farwood City]] on Neverwinter river.
+ - Small goblin city along Neverwinter River (most of the city stands on a wooden platform above the river, in an especially wide and slow moving portion.
+ - Primarily godless, but with a small and growing following of Maglubiyet, evil god of War and Leadership for goblins.
+*** Carrowmore
+*** Martintown
+- Outside Carrowmaw Valley
+*** Neverwinter
+**** Mayfield Farm
+ - Farm to the southeast of the main city.
+ - Assorted crops, but with a particular focus on wheat.
+ - Has been burned down by the Ashmodai.
+*** Waterdeep
+**** Temple of Beauty
+ - Primary house of worship for [[Sune]].
+* Rumors
+** Around Farwood City
+*** DONE 1 [[Frederick Carr]] has been sleeping with [[Catherine Romale]]. What a scandal!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 2 [[Andorra Carr]] is due soon, but some say the baby isn't her husbands!
+*** 3 The Church of Sune has been pushing for allowances to set up a place of worship in the city. Their parties are wild!
+*** 4 The [[Library of Oskethellar]] is the local Oghma temple, and has a surprisingly large collection of works. Those priests sure do love reading.
+*** 5 The local [[Temple of Tymora]] is a great place for adventurers; Lady Luck smiles on those who take risks!
+*** 6 The local [[Temple of Lathander]] is the place to go for adventurers for competitions of athletics or tricks against the undead!
+*** DONE 7 The recent construction of the Spire was a grave misuse of public funds; so large and intricate, and the upper floors aren't even being used!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 8 A delegation of Sune-worshippers is in town, and it's surprisingly muscular. Maybe they're planning something?
+*** DONE 9 The Church of Shar has been pushing for allowances to set up a place of worship in the city. Those evil bastards better not be allowed in!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 10 There's a temple of Silvanus on the outskirts of town; they weren't allowed in because of their opposition to the development of the city. Damn hippies.
+*** DONE 11 The Filaths's child has been abducted! How horrible!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** DONE 12 There's a wizard's tower to the northwest of [[Farwood City]]. He originally wanted it closer to [[Farwood City]], but sound ordinances were restricting. Silly wizards.
+    CLOSED: [2016-11-21 Mon 19:02]
+*** DONE 13 If the city keeps getting bigger, it would attract the wrong sort of attention. 
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 14 The guards in town have been getting greedier and more corrupt as of late.
+*** DONE 15 A ghostly dog has been seen prowling around [[Cabell Manor]] at night. Pretty scary!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 16 A red dragon has been seen flying over the area recently. The Guard are spending extra time practicing with their bows!
+*** DONE 17 There's been movement of goblinoid races west through the area around [[Farwood City]]. Watch out on your travels!
+    CLOSED: [2016-11-21 Mon 19:02]
+*** 18 The Midsummer Festival is coming up, and this year it will be followed by the Shieldmeet festival! Watch out for it!
+*** 19 There's been an archeological expedition sent to the organized by Professor [[Winsome Landy]].
+*** 20 The Guard has recently crushed the gang of Gunther Mohl! The awful one himself escaped, but the rest of the gang is in prison.
+*** 21 The Braasch family farm is cursed, and has been for generations! I passed by that place and heard a child's ghostly crying.
+* Events
+** The Cleanse of Carrowmaw
+- In 1420 DR, 
+* Artifacts
+** Psathyrella's Mask
+- Shatters any mirror that the mask is reflected in.
+- Allows for effortless disguise as a human.
+** Voloija's Mirror
+- Bridges the gap between the plane it's currently on and its mirror equivalent.
+- Provides a path to the mirror equivalent realm.
+- Enchanted and neigh-unbreakable. The first time [[Psathyrella]] entered the room with the mirror, a small crack appeared across the mirror. The continuous presence of the reflected mask keeps the crack alive. If the mask is removed, the mirror will heal.
+- As long as the mirror is damaged, it cannot be passed through.
+- Anyone from the non-mirror realm who enters the mirror realm slowly starts going mad.
+- The mirror seems to attract darkness, such that shadows will not be visible.
+** Cloak of Krasus
+- Beautiful, shimmering cloak that seems to be pure black, but that shines in a dazzling array of colors when struck by sunlight.
+- Covered in golden runes written in ancient Netherese.
+- Unknown other magical properties.
+** The Torns and the Medusa
+Animated painting showing the chronology of [[The Three Sisters and the Medusa]].
+** The Far Path
+- Ring absorbs energy from its surroundings.
+- Can sometimes mitigate damage from harmful, energy-ful sources (like fire).
+- Absorbed energy will be fed into the far realm.
+- The location of the ring will draw to those attuned to the far realm.
+- Seems to bring misfortune if not fed.
+** Piwafwi
+- http://vignette3.wikia.nocookie.net/forgottenrealms/images/b/b5/Out_of_the_Abyss_-_Piwafwi_-_Olga_Drebas_-p222.jpg/revision/latest/scale-to-width-down/700?cb=20160619020737
+- Spider silk
+- Symbol emblazoned 
+** The Crescent
+- Timeless artifact, with very powerful anti-magical properties. Will drain and consume magic in its vicinity.
+* Legends
+** The Three Sisters and the Medusa
+- Global
+- Three Torn Sisters (Chronia, Zamia and Charity) were born, and with their beauty and innocence led to the creation of a land of wonder and peace.
+- They ruled for time immemorial, presiding over a golden age for the human race.
+- In time, three of their advisors, envious and ambitious, decided that they could not allow the sisters to rule forever, and conspired to lock them away.
+- They deviously led the three sisters to an evil Medusa, and bade her to keep the three sisters petrified for eternity. Where they are, to this day.
+** The Legend of Cabell Manor
+“The story starts with my ancestor, Richard Cabell, who built
+this manor house some 400 years ago. He poured his heart
+and soul into this place; it took years and years to build and
+all-but bankrupted him. As soon as it was completed he made
+some bad business deals that left him on the verge of losing it.
+“According to the legend, Richard made a deal with dark
+forces in order to keep hold of this place and ensure it would
+never leave the family. In return he pledged to give up the life of
+a Cabell, one every century. People say Richard allowed his
+own son to be dragged into the family tomb by a foul
+Hellhound.
+“Of course, I never believed the story. When my father told
+me about it I thought he was trying to scare me. But now… I
+worry there may have been truth in it after all.”
+** The Vision of Ariel 
+*** Awaking
+You groggily awake. You remember a dream; a wonderful dream of adventure and heroism, of success and failure. It was your adventure in Malgrief, where you with your friends first gained your griffons, the first step in the grand journey that would lead to this, the finest retirement an adventurer could ask for.
+
+It's a good memory. You almost miss the danger, the excitement, the feeling of comraderie enhanced by the near-death situation. You look around. This is better. You're with your close friends at your shared home in the Sea Ward of Waterdeep; a beachside property, the finest in Waterdeep, the wealthiest city in Faerun. A unique amalgamation of nature and magic, splendor and joy. 
+
+You fell asleep in the sun, you note with concern - that'll hurt tomorrow. 
+
+In the distance is "The Thousand Hands", your flagship -- the swiftest and mightiest on the seas, all the better to scare off the pirates and protect your trade interests overseas. The sun shines in the gaps 'twixt her masts, blinding you as she sails back into port.
+
+You glance around at your friends, lying near you, now also awakened -- also smiling dully. You hear a squawk from behind you -- it's your old companion Fairfeather, who you met at Malgrief. You look back, thankful that he's still with you after all these years. His feathers rustle, and he buries his beak under his wing, preening.
+
+You look around and see what aroused Fairfeather's attention. It's Ariel, your once-captor and benefactor from your time in Carrowmaw Valley. You grin, thinking about how your relationship developed over the years -- from hated jailer, to close friend. Her tattoos glitter in the sunlight, and the sickly smell of brimstone engulfs you as she approaches. It's her worst quality.
+
+--- Conversation in which Ariel tries to extract details about Uravulon ---
+
+*** Medusa
+A splash out towards the sea catches your attention. A snake is flailing unnatural, as if being whipped back and forth, the top half standing up out of the water almost vertically. It's severus. He looked ecstatic, yet crazed. For a snake.
+
+The ground shakes. Rising out of the water, far larger than the water has any right being deep, rises a mountain, light blue. The sky, reflecting the mountain, loses some of its deep orange tint; it's as if day was returning.
+
+You see before you a giant medusa head, the mountain, an arm, holding a deep blue mask, embroidered in gold, in front of her face. Her head is the size of a ship, the size of a small city, blotting out the sun. Her body meets the sea at her shoulders. You can no longer see "The Thousand Hands"; the head is far larger. The snakes in her head writhe excitedly, smelling you. 
+
+Ariel stares silently at the vision; if shocked, not showing it.
+
+The Medusa points one giant hand east. "Look" she says, a voice so deep that hearing and understanding it feels wrong.
+
+You see the horizon. The land and the sky come together along a line in the distance. And the line approaches you. The horizon is coming. The land and the sky become one, become one unseeable one. You feel rumbling coming deep from the earth, getting stronger and stronger. It's as if a beast the size of a continent is approaching. It's coming at you.
+
+The Medusa draws your attention with her hand, so large as to stretch across Waterdeep and further. She faces you. "Come to me" you hear. She slowly removes her mask.
+
+Behind the mask you see nothing but blackness. Nothing but her eyes, black as the the darkest night in the deepest depths of the earth. A dark that hunts. Except the stars. The stars shine, but illuminate nothing. 
+
+Then it gets lighter.
+
+*** Real-awake
+You awake. You're lying on your back, staring into the sky; morning is coming. The light of the stars is dimming, the sun about to peek out.
+
+You see that you're lying near in the grass near the wall of Malgrief. What happened comes rushing back. You see that the wall was breached, only feet from where you lie; and yet, it looks like the defenders carried the day.
+
+You see a tent parked ten feet away, where a wood elven woman is applying salve to the burned side of a griffon. The woman is wearing the local uniform, a green tunic and light brown leather armor. You see a large bloody patch along her right pant leg, and she walks with a light limp, but she cares for the animal briskly and energetically, cooing and comforting it. 
+
+The griffon's indignant squawking is what woke you. Two men are standing guard nearby; one is grizzled and middle-aged, no uniform and with a bandaged right arm, holding a halberd in his left, gazing out into the forest, keeping watch. The other is younger and in uniform, green tunic and light brown leather armor. He has a bandage around the left side of his head; the lack of a bump suggests a missing ear. He's staring at you, and nudges the woman to make her aware. "They're awake."
+
+The ground around you is littered with corpses, primarily unidentifiable, but many in Carrowmaw military uniforms. Forty feet towards the forest and away from the fort wall is a pyre, continuously being added to; civilians and militia working together to honor the dead. Four men are trying to drag the corpse of a griffon, wings and hind legs burned off and face missing all of its skin, to the pyre; it seems a futile task.
+
+Spellcasters: Thumbs tied together.
+
+
+**** Said by Alexis Siannodel
+- Dispicable murderers. Korsantos was a great man. A rough man, but a great one. 
+- May your gods forgive the evil you've done here this day. I have no such forgiveness in my heart. I hope the pyre consumes you. *spits*
+
+*** Events
+- A flock of griffons fly above you, heading west, out towards the sea.
+
+* Tables
+** Resources
+*** Vornheim 
+ - [[file:..\LotFP\VornheimPDF.pdf][Vornheim]]
+ - Aristocrats: Page 48
+ - Books: Page 50
+ - NPCs: Page 52
+ - Encounters: Page 56
+ - Fortunes: Page 58
+ - I Search The Body: Page 60
+ - Legal Situations: Page 61
+ - Magic Effects: Page 62
+ - Taverns and Games: Page 64
+*** Nerzugal's DM Toolkit
+ - [[file:..\Resources\Nerzugal's DM Toolkit\NerzugalsDMToolkit.pdf][Nerzugal's DM Tools]]
+**** Random Encounters: Page 3
+|   1 | Party stumbles upon a dragon's lair (Age appropriate).                                                                  |
+|   2 | Hard Monster Encounter.                                                                                                 |
+|   3 | A 150 ft. sheer cliff with a spear sticking out of its side halfway up and a banner hanging from it.                    |
+|   4 | Party finds hints of a rare ore or tree nearby.                                                                         |
+|   5 | Medium Difficulty Monster Encounter.                                                                                    |
+|   6 | Party finds airship wreckage.                                                                                           |
+|   7 | It’s your lucky day! A rainbow appears in the sky. A leprechaun awaits at its end guarding a pot of gold.               |
+|   8 | Find a great chasm leading deep into the ground. At least a few miles long and a hundred feet across.                   |
+|   9 | A large group of low CR monsters ambush the party.                                                                      |
+|  10 | A swift, powerful rainstorm blows in through the area, knocking down trees and flooding rivers.                         |
+|  11 | Find evidence of an Orc encampment nearby.                                                                              |
+|  12 | Stumble upon a series of caves leading deep into the ground.                                                            |
+|  13 | Bad Luck! Incredibly Difficult Monster Encounter.                                                                       |
+|  14 | There is a wanted criminal with a bounty on their head in the area. Desperate to not get caught.                        |
+|  15 | Medium Difficulty Monster Encounter.                                                                                    |
+|  16 | Find a piece of alien technology (i.e. pistol, dynamite) in some wreckage.                                              |
+|  17 | Find a group of fairies riding squirrels as their mounts. They are hunting pixies.                                      |
+|  18 | Find a lost diary with many entries inside written in an unknown language.                                              |
+|  19 | A ladder ascends the side of a large tree all the way into the canopy 100ft. up. Glowing fruit await at the top.        |
+|  20 | Discover ruins (Inhabited by nagas / formerly inhabited by naga depending on party level).                              |
+|  21 | Easy Monster Encounter [Avoidable].                                                                                     |
+|  22 | Stumble upon evidence of a bandit encampment.                                                                           |
+|  23 | Find an ogre trap. It is a large hole with a sign out front that reads “FUD” and points down.                           |
+|  24 | Find a traveling bard. Tells a legend of nearby powerful creatures / ruins / etc...                                     |
+|  25 | Medium Difficulty Monster Encounter.                                                                                    |
+|  26 | Find a crazy old Githzerai apothecary in a wooden hut out in the woods.                                                 |
+|  27 | Find a thin stream of lava that has broken through to the surface. Lava mephits abound.                                 |
+|  28 | Stumble upon the carcass of a massive, dead sea creature, even if there is no water nearby.                             |
+|  29 | Hard Monster Encounter.                                                                                                 |
+|  30 | Amulet rolled from the Random Item Enchantments table lays in the middle of the path. (Good and Bad Attributes).        |
+|  31 | Find a strange stone well. There is a bucket attached which holds a skull and a single sapphire. Interesting.           |
+|  32 | Spot an exotic animal (A deer with emerald antlers, a squirrel with wings of a dragon, etc…).                           |
+|  33 | Find evidence of an Ogre encampment nearby. Wreckage from another party nearby.                                         |
+|  34 | Find a paladin out in the wilds, searching for a nearby demon that he must vanquish.                                    |
+|  35 | Medium Difficulty Monster Encounter.                                                                                    |
+|  36 | Find an outcast ogre. The “smartest” of his clan and often abused because of this. (7 Intelligence)                     |
+|  37 | Find a bloodstained bit of parchment. Written upon it is a confession of love for a woman in a nearby town.             |
+|  38 | Wild Magic Zone (Roll on Sorcerer table after each spell cast while here).                                              |
+|  39 | Meteor strikes the ground a few hundreds yards off. Xorn unconscious amongst the debris.                                |
+|  40 | Find a field of vibrantly glowing fireflies. Caused by a nearby magical source that can be used to dye gear.            |
+|  41 | Easy monster encounter [Avoidable].                                                                                     |
+|  42 | Hard monster encounter.                                                                                                 |
+|  43 | Find a lovely garden out in the forest that appears to be unattended. A dryad will pappear should they disturb it.      |
+|  44 | Find the home of a friendly Oni. He is wearing clothes that appears stitched together by those of other adventurers.    |
+|  45 | Medium Difficulty Monster Encounter.                                                                                    |
+|  46 | Find a patch of trees knocked down and destroyed. Evidence a massive creature has moved through recently.               |
+|  47 | Find a pile of goblin corpses stacked up with a banner impaled through the center.                                      |
+|  48 | Find a Power Gem. Can be used to give life to constructs or sold for a good price to the right buyer.                   |
+|  49 | Find an archway of stone with symbols etched all around its border. It appears to be some sort of doorway.              |
+|  50 | A powerful natural disaster strikes the area: tornado, earthquake, tsunami, etc...                                      |
+|  51 | Party discovers a potential pet (psuedodragon, a large rat, a business of ferrets).                                     |
+|  52 | Party comes across a river. Seems normal except for the fact that the water is purple. As are the fish.                 |
+|  53 | Party discovers a small treasure chest with no discernable way to open it. No key slot.                                 |
+|  54 | The party will be attacked by a were-creature in the night.                                                             |
+|  55 | Medium Difficulty Monster Encounter.                                                                                    |
+|  56 | Find a beautiful home out in the wilds with a Medusa living inside (Sedissa Liventhia) with a task for the party.       |
+|  57 | A beautiful gemstone is embedded in the center of the path. It glows a vibrantly with some strange magic.               |
+|  58 | Easy Monster Encounter [Avoidable].                                                                                     |
+|  59 | Hard Monster Encounter.                                                                                                 |
+|  60 | Armor rolled from the Random Item Enchantments table lays in the middle of the path. (Good and Bad Attributes)          |
+|  61 | Find a hidden slaver’s camp.                                                                                            |
+|  62 | Find a large bushel of highly deadly berries. Can be used to make potent poisons.                                       |
+|  63 | Find evidence of a Goblin encampment nearby.                                                                            |
+|  64 | Find the lost crown of a local bullywug king. Made from a large seashell.                                               |
+|  65 | Medium Difficulty Monster Encounter.                                                                                    |
+|  66 | Find a cockatrice breeder’s farm out in the wild. Has a valuable, prized cockatrice as his pet.                         |
+|  67 | Stumble upon a small family of Fairie Dragons.                                                                          |
+|  68 | A mysterious snowstorm blows through. A powerful gnoll shaman is controlling the weather from a nearby location.        |
+|  69 | Easy Monster Encounter [Avoidable].                                                                                     |
+|  70 | Nearby bog infested with zombies. Bloodied man runs up to the party asking them to save his companions.                 |
+|  71 | Find a strange stone. History/Arcana check will find it is a "Blight Stone". Best be careful.                           |
+|  72 | Spot an exotic animal (A noble stag wearing gilded armor, a panther with a strange red pattern).                        |
+|  73 | Stumble upon a gnoll tribe preparing a massive bonfire to sacrifice locally kidnapped citizens to Yeenoghu.             |
+|  74 | Party hears beautiful singing. Local peasant woman who is forbidden to sing practices out here.                         |
+|  75 | Medium Difficulty Monster Encounter.                                                                                    |
+|  76 | Party finds evidence of a unicorn nearby.                                                                               |
+|  77 | Find a massive stash of fake gold coins. Some are clearly wooden but others are decent counterfeits.                    |
+|  78 | Find evidence of a Roc nest nearby. Three eggs within.                                                                  |
+|  79 | Party overhears the cries of a pair of baby manticores. Their mother was killed.                                        |
+|  80 | Find a pool of blood in the middle of the path with a large, still pulsing heart at its center.                         |
+|  81 | Easy Monster Encounter [Avoidable].                                                                                     |
+|  82 | Hard Monster Encounter.                                                                                                 |
+|  83 | Find evidence of a nearby lizardfolk encampment.                                                                        |
+|  84 | Party discovers a potential pet (A colorful peacock, a large curious rabbit, a friendly owl).                           |
+|  85 | Medium Difficulty Monster Encounter.                                                                                    |
+|  86 | Evidence of gemstone mine nearby.                                                                                       |
+|  87 | Small village of Satyrs. Massive hedonists and will make requests for fragrant flowers, beautiful art, or lovely poems. |
+|  88 | Find a small hedron is found on the ground. A perfect eight-sided structure a foot high and a four inches wide.         |
+|  89 | Spot a small band of goblins struggling with a stolen Wyvern egg.                                                       |
+|  90 | Weapon rolled from the Random Item Enchantments table lays in the middle of the path. (Good and Bad Attributes).        |
+|  91 | Discover a random dungeon (From Section E).                                                                             |
+|  92 | Find a treasure map found in the dirt leading to a nearby area of interest.                                             |
+|  93 | An airship is seen soaring overhead. It is crewed by a group of bandits and has been harassing local villages.          |
+|  94 | Easy Monster Encounter [Avoidable]                                                                                      |
+|  95 | Medium Difficulty Monster Encounter.                                                                                    |
+|  96 | Find a cultist summoning circle. Looks to have been recently used and lingering magics are still detectable.            |
+|  97 | Hard Monster Encounter.                                                                                                 |
+|  98 | You find a young woman lost in the forest. Tells you her family is wealthy. Actually a Doppelganger.                    |
+|  99 | Incredibly Difficult Monster Encounter!                                                                                 |
+| 100 | Discovere a massive ruined city/dungeon [Large dungeon + Valuable Treasure].                                            |
+*** Dungeon Master's Guide
+  [[file:../Rules/D&D/DMs Guide.pdf]]
+- Page 274: Monster Statistics By Challenge Rating
+- Page 112: Random settlement generation
+- Page 113: Random building generation
+- Page 114: Random urban encounters
+- Page 259: Madnesses
+- Page 272: Injuries
+*** Dungeon Alphabet
+[[file:..\Resources\The_Dungeon_Alphabet.pdf][Dungeon Alphabet]]
+- Page 9: Altars
+- Page 11: Unusual Adventuring Bands
+- Page 12: Special properties of books
+- Page 13: Book titles
+- Page 15: Unforseen battle developments
+- Page 33: Magical Devices
+- Page 41: Potions 
+- Page 43: Rooms
+- Page 52: Traps
+*** Web
+- Mutation http://monstermanualsewnfrompants.blogspot.com/2011/12/d30-mutation-table.html
+- More mutation http://monstermanualsewnfrompants.blogspot.com/2011/12/1d100-table-of-mutations-and-wait.html
+- What are goblins up to? http://jrients.blogspot.com/2006/10/question-no-one-wanted-answered.html
+- Magical ropes http://aeonsnaugauries.blogspot.com/2010/12/magical-ropes.html
+- Orc Loot http://jrients.blogspot.com/2012/01/number-20-assumes-actual-pants-pockets.html
+- Creepy curses http://www.rolang.com/archives/318
+- Bizarre Urban Locations http://www.rolang.com/archives/324
+* Misc
+** Equipment List 
+- [[file:..\Rules\D&D\D&D 5e - Players Handbook (Small).pdf][Players Handbook]]
+- Page 136: Armor
+- Page 140: Weapons
+- Page 141: Adventuring Gear
+- Page 145: Tools
+- Page 147: Mounts
+- Page 147: Trade Goods
+
+** Ability Checks
+*** Strength
+Athletics
+*** Dexterity
+Acrobatics
+Sleight of Hand
+Stealth
+*** Intelligence
+Arcana
+History
+Investigation
+Nature
+Religion
+*** Wisdom
+Animal Handling
+Insight
+Medicine
+Perception
+Survival
+*** Charisma
+Deception
+Intimidation
+Performance
+Persuasion
+
+* New Monsters
+** Returned
+- Seem to be undead, but are actually golems constructed with the bones of the dead and imbued with their spirit.
+- Imbued with the ability to create illusions to seem lively, for all senses.
+- 40 hp
+- AC: 12 + Armor Bonuses
+- Strength: 17
+- Dexterity: 12
+- Wisdom, Intelligence, Charisma: Same as in life
+- Spellcasting abilities nonexistant, except divine magic depends on the deity.
+- Immortal.
+*** Options
+**** Usually made of bone, but may be made of alternative materials, like metal
+**** May have shield + spear, +2 ac, +5 to hit, 5 + 1d8, 10 ft range. 
+- Shield charge: Athletics (str or dex) save to not be knocked down, 2d6 damage.
+- Can throw spear, 10 + 1d8, +3 to hit.
+- Can attack with longsword, +7 to hit, 3 + 1d6 damage.
+**** May have mechanical mouse. Moves at 15 ft/round, explodes for 6d6, 3d6 on successful dex save. Telepathically controlled.
+- Requires concentration to maintain.
+**** May have box of small beetle swarm. 15 hp, 14 ac, +5 to hit, 2d6 piercing damage.
+- Requires concentration to maintain.
+
+*** May have potions on hand: 
+- Explosive Grenade: Grenade, deals 2d8 damage in 10 ft diameter area on impact. 30 ft range, dex save.
+- Oil Grenade: Grenade, covers 20-ft diameter area with oil. Movement is 1/2 slow, dex athletics save on movement to move or fall prone.
+- Sleep Grenade: Ten foot diameter, constitution save or fall asleep.
+- Poison gas grenade: Grenade, covers ten foot diameter with poison. 2d6 initial damage, 1d6 per turn until 3 successful con saves.
+*** Loot
+- Rope
+*** See archetypes:
+Thug MM, pg 351 ,CR 1/2
+Swashbuckler Volo, pg 231, CR 3
+
+** Kapek
+- See 'Merrow', 'Kua Toa Whip', 'Kua Toa Archpriest'
+- Can cast fearie fire on single targets; can't be invisible, attack rolls have advantage against target.
+- Eldrich Blast, 1d10
+** Clockwork
+ 
+* Combat
+
+armor 1: 11, 13, 16, 6, 7
+armor 2: 6, 12, 7, 7, 7, 9
+pot: 13, 8, 12, 10, 6, 14
+[18d6] -> (1 3 1 4 2 3 6 4 5 5 6 3 3 2 1 5 3 1) = 58
+
+[3d6] -> (1 4 4) = 9
+[6d6] -> (5 6 2 5 6 1) = 25
+[6d20] -> (5 8 17 18 9 12) = 69
+
+* Quotes
+** Szass Tam
+- His expression had a hint of wistfulness about it, the look, just conveivably, of someone who'd briefly hoped to find a kindred spirit and been disappointed.
+** Bareris
+- In life, she was a river. Undeath has dried her to a trickle. But after ten years in the desert, a man will weep with gratitude at any taste of water.
+  
+* Combat
+20 liz
+14 dan
+12 nico
+5 nick
+8 child
+
+severus 8 damage
+dan 13 damage
+nico 10 
+nick 4
+
+
+nick dan nico liz

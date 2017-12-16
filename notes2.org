@@ -1,0 +1,102 @@
+* PCs
+** Nym
+Gifted by Lolth
+Grew up in temple where males were not allowed
+** Votan
+
+*** Cursed eyes of lolths statues
+** Asir
+Whiney bard noble
+** Brickbrick
+- Svirfneblin (Deep gnome)
+- Sorcery
+- Artisan in brewer's guild
+* NPCs
+** From Elken's Narrows
+*** Shakath
+- Gith Shaman
+- Left behind on failed Gith raid against Quellin.
+- Foretold the coming of the great Om two days ago
+*** Marriet
+- Exile from Elken's Camp.
+- Believes that he is what he eats
+*** Shark
+- Grizzled old dwarf
+- Sharpens teeth with a file to look more intimidating
+- Part of expedition of 4 that tailed Aelar (with Maggie the Gnome Fighter, Ellen the Orc Scout, Carbine the Gnome Tinker)
+- Thrown into a spider web
+- Chewed off his own arm to escape.
+** Om the Civilopede
+** From Velkenvelve
+*** Graen Del'Armgo
+- House Barrison Del'Armgo
+- Wizard
+- Former Priest of Vhaeraun
+- Corrupted by a handmaiden of Lolth during a demonic summoning
+*** Eldeth (Dwarf)
+*** Sarith Kzemarit
+** From Quellin
+*** Arszin
+- Mind Flayer
+- Slaver and Fight-Gambler
+- Escaped Quellin with three goblin and a gnome slave after the city's meeting with Om.
+** From Titan's Lair
+*** Goosoloose
+Titan-crab
+- Ten by fifteen feet skull
+- Eyeholes have smaller skulls adorning them
+- Big crab
+** Aelar Galondel (Moonwhisper)
+- Elven psychic rogue
+- Passed through Elken's Camp three days ago
+- Claimed to be heading towards the surface
+** Makar Bin
+- Dwarf Warlock of the Undying Light
+- Former companion of Aelar Galondel in the quest to take fine art from Om, for the glory of Deneir and Moradin!
+- Party destroyed during the raid, but Aelar escaped with the infinite dragon, a priceless amulet the absence of which sent Om rampaging.
+- Wants to intercept Aelar on his way back up to the surface at Aesthinos.
+** The Prince Tectonic of the Flawless Fault
+*** The Face
+Haughty but smiling often with the dazzle of a diamond tooth.
+*** The wonderous clothes
+Smoke blacked armour, brass cast, etched
+by vandal artisans with one thousand
+and one victories of the Deep Janeen.
+*** Mannerisms
+A small live animal is presented to be
+crushed with each and every footstep
+*** Amusements
+Naked girls in golden cages locked 1001
+times. Each good story earns a key.
+*** Opulence 
+Every stone and tool and fold of cloth
+enchanted to whisper their praises
+with each move, the air fills with a susurrus of quiet adoration. 
+* Locations
+** Quellin
+- Illithid City
+** Velkenvelve 
+- Small deep drow outpost near Ssither
+** Elken's Narrows
+** Aesthinos
+Ancient netherese city collapsed from the sky into the earth with the fall of Netheril. Has been buried in the centuries since.
+* Artifacts
+** Cloak of Graen
+- Climb spiderwebs like a spider
+- Tie yourself to Lolth
+
+* Random Encounters
+| Event                 | Description                                                                                  |
+| Slave stampede        |                                                                                              |
+| Sulfer Fireball       | A burst of fire comes from down the hall. Hide behind something or take 4d6 points of damage |
+| Rampaging Hook Horror |                                                                                              |
+| Perspective Dogs      | From the dog dimension                                                                       |
+|                       |                                                                                              |
+|                       |                                                                                              |
+* todo stuff
+Magic Ring -> Blessing of Vhaeraun, hair changes color to suit emotion, but deception to conceal identity gets +3 bonus. Shadow weave?
+Magic Orb -> Orb of the Drow. Amplifies the effects of divination spells on an area proportional to the number of drow in the target area.
+Magic Ring (Matthias guy) -> Nico. Gets warm with food nearby. Food can be described interestingly.
+
+3 damage
+poison

@@ -1,0 +1,90 @@
+* Yodle Game
+- level 3
+** Level 5
+- 1 Hypnotism, Phantasmal Force, Change Self
+- 2 Invisibility, Improved Phantasmal Force
+- 3 
+
+- 18hp
+- Proficiency in darts
+
+- 7171
+** Gear 
+| Item                     | Properties                    | Cost |
+| Darts                    | 1-3 against small, 1-2 agains |   .5 |
+| Hat                      |                               |   .7 |
+| Robe                     |                               |   .6 |
+| Cap                      |                               |   .1 |
+| Belt                     |                               |   .3 |
+| Boots (high, hard)       |                               |    2 |
+| Cloak                    |                               |   .5 |
+| Backpack, Leather        |                               |    2 |
+| 4x garlic                |                               |   .2 |
+| 4x 10" pole              |                               |  .12 |
+| Lantern, hooded          |                               |    7 |
+| 2x Pouch, belt, large    |                               |    2 |
+| 2x Rope, 50'             |                               |   .8 |
+| 3x Torch                 |                               |  .03 |
+| 4x Flask of oil          |                               |    4 |
+| Tinder Box               |                               |    1 |
+| 5x Iron Rations          | 5 weeks                       |   25 |
+| 10x Health Potion        |                               |  250 |
+| Canoe                    |                               |   20 |
+| 3x dudes                 |                               |   3g |
+| Potion of Polymorph Self |                               |      |
+
+
+Consumes
+| Item         | Quantity |
+| Iron Rations |        3 |
+
+18000 exp
+11601g
+
+
+* John Other Game
+
+** Gear
+| Item                   | Properties                    | Cost |
+| Darts                  | 1-3 against small, 1-2 agains |   .5 |
+| Hat                    |                               |   .7 |
+| Robe                   |                               |   .6 |
+| Cap                    |                               |   .1 |
+| Belt                   |                               |   .3 |
+| Boots (high, hard)     |                               |    2 |
+| Cloak                  |                               |   .5 |
+| Backpack, Leather      |                               |    2 |
+| 4x garlic              |                               |   .2 |
+| 4x 10" pole            |                               |  .12 |
+| Lantern, hooded        |                               |    7 |
+| 2x Pouch, belt, large  |                               |    2 |
+| 2x Rope, 50'           |                               |   .8 |
+| 3x Torch               |                               |  .03 |
+| 4x Flask of oil        |                               |    4 |
+| Tinder Box             |                               |    1 |
+| Delirium Tremons       | Beer                          |    1 |
+| Good Mead              |                               |    0 |
+| Spectacles             |                               |   16 |
+| M-Z Encyclopedia       |                               |      |
+| Scroll of Darkness     |                               | 300g |
+| Potion of Spider Climb |                               |      |
+| 4 x healing pot        |                               |      |
+| Helmet                 | From dead boris               |      |
+|                        |                               |      |
+|                        |                               |      |
+|                        |                               |      |
+|                        |                               |      |
+
+** lvl 4
+- Phantasmal Force ( 1 )
+- Audible Glamer ( 1 )
+- Wall of Fog ( 1 )
+- Improved Phantasmal Force ( 2 )
+- Blindness ( 2 )
+ 
+13 hp
+3467g
+17009 exp
+
+Become Boris the Fighter
+600 exp 
