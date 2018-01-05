@@ -24,7 +24,7 @@ Elena made it to Murann in one piece, but without her father, and much poorer.
 - At least five years of adventuring experience.
 - Must be able to handily deal with two goblins.
 - Knowledge of the arcane, history, foreign languages, and other similar skills desired.
-- Two professional references per applicant. 
+- Two professional references per applicant.
 
 **** Insurance
 Insured with Calceri Bank. 
@@ -42,11 +42,11 @@ Insured with Calceri Bank.
 - [[Elena Feyhammer]] and [[Himo Liadon]] are collecting a group of adventurers (mercenaries) to go hunting for the lost land of Lemuria!
 
 * Legends
-** Lemuria
+** Of Lemuria
 - Legends speak of an island city to the west of Faerun, in the Trackless Sea, north of Chult and East of Lantan.
 - Maps from different years differ with regards to the exact location.
 - The city disappeared four hundred years ago, utterly and completely.
-
+  
 * Locations
 ** Lantan
 - Former island nation in the trackless sea
@@ -54,39 +54,62 @@ Insured with Calceri Bank.
 - Advanced technology
 ** Lemuria
 * PC
+** Shadow of the Towers
+** Valeria Greenleaf
+- 250 years old
+- Merchant of Waterdeep
+- Family of merchants
+- Operate warehouses, caravans, stores.
+- Elf Cosmetics, front
+- Emerald Enclave
+- 
+** Therapon
+- Minotaur
 * NPC
 ** From Waterdeep
+*** Captain Monsignore
+- Captain of the 'Heart of Iron'.
 *** Bayaz
+- https://vignette.wikia.nocookie.net/firstlaw/images/2/2e/Bayaz-GraphicNovel.jpg/revision/latest?cb=20140307222848
+- Bayaz looks maybe sixty, heavily built, with a strong face, deeply lined, and a close-cropped grey beard around his mouth. He is entirely bald, with a tanned pate.
+- Goes by 'Lord Colm Ashenmire'.
 - Lord of Waterdeep
 - Level 15 Wizard-Sorcerer
 - Patron of [[Elena Feyhammer]].
-- Wants to 
-
+*** Yoru Sulfur
+- https://vignette.wikia.nocookie.net/firstlaw/images/3/34/YoruSulfur-GraphicNovel.jpg/revision/latest?cb=20140307222306
+- Male, human, 30s, southern skin color, but not so dark as to be Calmshite
+- One blue eye and one green
+- Nondescript dress, pleasant but forgettable, humble manner.
+*** Khalul
+- Trapped by Bayaz in Lemuria.
+- Released by [[Marod Feyhammer]].
 *** Marod Feyhammer
 - Male human calishite, 77
 - Father of [[Elena Feyhammer]]
 - Calishite merchant and later aristocrat.
 - Later in life, wanted to migrate to the Amn: [[Feyhammer Migration]].
- 
 *** Elena Feyhammer
+- https://img00.deviantart.net/499d/i/2013/083/d/b/melisandre_by_imperfectsoul-d5z5nac.jpg
 - Wanted to be an adventurer, like those in the tales.
 - Female human calishite, 46
-- Level 7 Sorcerer
+- Level 5 Sorcerer
 - Gift for divination
 - Has had worsening magical dreams about her father [[Marod]] for the past 7 months. They point her southwards.
-- Approached by [[Bayaz]] 
-
+- Approached by [[Bayaz]]
+- Wearing noble clothing (maybe trying a bit too hard)
 *** Logen Ninefingers
+- https://vignette.wikia.nocookie.net/firstlaw/images/1/19/Logen_ninefingers_wip_by_icedwingsart-d8guxcx.jpg/revision/latest?cb=20150512083852 
 - Level 7 human Barbarian
 - Elena's bodyguard
-- Six foot Barbarian, wielding a massive claymore and little else.
+- Six foot Barbarian, wielding a massive claymore.
 - Armored in leather.
-- Terse, but if he Elena thinks its safe for him to drink, he opens up.
-- From the far North -- exiled after briefly achieving hegemony amoung the tribesmen.
+- Terse
+- Very heavily scarred face and arms.
+- From the far North -- fled into exiled after briefly achieving hegemony amoung the tribesmen.
 - When raging, can become the Bloody-Nine
-- Hired by Elena as she was traveling into Waterdeep -- she saw him massacre bandits along the side of the road.
-
-*** Renault Monsigne
+- Hired by [[Bayaz]] to accompany [[Elena Feyhammer]].
+*** Renault Monet
 - Halfling Cartographer
 - Brought in to resolve discrepancies in the maps by [[Elena Feyhammer]].
 
@@ -117,3 +140,6 @@ Job Interview
 *** Summary
 ** Predictions
 *** If the 
+
+* Stuff
+** Crown of Vesuvius
