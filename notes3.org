@@ -53,6 +53,22 @@ Insured with Calceri Bank.
 - Used to be populated by gnomes and humans
 - Advanced technology
 ** Lemuria
+** Ashenmire Palace
+- Three story palace, one of the largest in the Sea Ward of Waterdeep (the wealthiest ward of the city)
+- Circular, with greenery on the edges of the rectangular property.
+- Palace itself is deep red, with intricately carved white columns with gold-plated bases  on the outside 
+- Strategically positioned globes lit with purple fire.
+- Floors can shift locations.
+- Circle has a radius of about 150 feet.
+*** For the Farewell Feast
+- Upon entering the building, big circular open area with high ceilings.
+- Lavishly decorated; painted windows (but none on the outside), frescos on the ceiling.
+- Bar in the middle of the room, tables arranged around it for the guests.
+- Elegantly dressed men and women (mostly women) in red and purple uniforms relax in a lounge to the side, talking to each other. They mostly stop as people come in and start walking around.
+- Ashenmire is standing in the corner, wearing a white suit. As the crew comes in, he welcomes them.
+- Santiano is playing music in the corner.
+** Heart of Iron
+
 * PC
 ** Shadow of the Towers
 ** Valeria Greenleaf
@@ -66,9 +82,33 @@ Insured with Calceri Bank.
 ** Therapon
 - Minotaur
 * NPC
-** From Waterdeep
+** From 'Heart of Iron'
+*** Ishri
+- Eater of Khalul
+- Will try to infiltrate mission, sabotage it, and take the treasures for Khalul
+- In true form, is a tall, dark skinned woman. 
+- Black eyes.
+- Wears black arabic cape with a brooch that shines in the darkness holding her cape on her chest.
 *** Captain Monsignore
 - Captain of the 'Heart of Iron'.
+- Grizzled, but french.
+- In the Amnish navy for twenty years.
+- Was caught smuggling several hearts of Glustrod as an on-duty captain, but was rescued from execution by a mysterious stranger.
+- Used his smuggling wealth to buy a new ship and became a pirate hunter operating in Waterdeep.
+*** Bruce the Beast (Willis)
+- First mate
+- Six feet tall human male
+- Bald
+- Can be freakishly strong when his ship's in danger
+- Got his nickname when he singlehandedly shifted the sail on the 'Heart of Iron', turning the ship in a critical moment against 'Barborbossa'.
+*** Pudge (Pudgeosopher, po-boy to his friends)
+- Ship cook
+- Gloriously fat
+- Once fought off three pirate scum that entered the kitchen.
+** From Ashenmire Palace
+
+
+** From Waterdeep
 *** Bayaz
 - https://vignette.wikia.nocookie.net/firstlaw/images/2/2e/Bayaz-GraphicNovel.jpg/revision/latest?cb=20140307222848
 - Bayaz looks maybe sixty, heavily built, with a strong face, deeply lined, and a close-cropped grey beard around his mouth. He is entirely bald, with a tanned pate.
@@ -81,6 +121,7 @@ Insured with Calceri Bank.
 - Male, human, 30s, southern skin color, but not so dark as to be Calmshite
 - One blue eye and one green
 - Nondescript dress, pleasant but forgettable, humble manner.
+- [[Bayaz]]'s eater and shapeshifter.
 *** Khalul
 - Trapped by Bayaz in Lemuria.
 - Released by [[Marod Feyhammer]].
@@ -99,7 +140,7 @@ Insured with Calceri Bank.
 - Approached by [[Bayaz]]
 - Wearing noble clothing (maybe trying a bit too hard)
 *** Logen Ninefingers
-- https://vignette.wikia.nocookie.net/firstlaw/images/1/19/Logen_ninefingers_wip_by_icedwingsart-d8guxcx.jpg/revision/latest?cb=20150512083852 
+- https://vignette.wikia.nocookie.net/firstlaw/images/1/19/Logen_ninefingers_wip_y_icedwingsart-d8guxcx.jpg/revision/latest?cb=20150512083852
 - Level 7 human Barbarian
 - Elena's bodyguard
 - Six foot Barbarian, wielding a massive claymore.
@@ -122,7 +163,10 @@ Insured with Calceri Bank.
 *** Santanos Morialdos
 - Captain of the Prima Victoria, the ship from which [[Marod Feyhammer]] had first found Lemuria.
 - Elderly, wrinkled, with a wry sense of humor, a scar across his right eye, and a peg leg.
- 
+* Artifacts
+** Glustrod's Heart
+- Named after the first Eater, Glustrod
+- Gives the eater of the heart a taste for human flesh.
 * Sessions
 ** Session 0
 *** Plan
@@ -143,3 +187,4 @@ Job Interview
 
 * Stuff
 ** Crown of Vesuvius
+
