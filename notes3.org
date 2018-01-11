@@ -69,8 +69,9 @@ Insured with Calceri Bank.
 - Santiano is playing music in the corner.
 ** Heart of Iron
 
+
 * PC
-** Shadow of the Towers
+** Shadow of the Tower
 ** Valeria Greenleaf
 - 250 years old
 - Merchant of Waterdeep
@@ -81,7 +82,7 @@ Insured with Calceri Bank.
 - 
 ** Therapon
 - Minotaur
-* NPC
+* NPCs
 ** From 'Heart of Iron'
 *** Ishri
 - Eater of Khalul
@@ -95,16 +96,22 @@ Insured with Calceri Bank.
 - In the Amnish navy for twenty years.
 - Was caught smuggling several hearts of Glustrod as an on-duty captain, but was rescued from execution by a mysterious stranger.
 - Used his smuggling wealth to buy a new ship and became a pirate hunter operating in Waterdeep.
+- Wears a sea-dragon-skin cape (he killed it himself)
 *** Bruce the Beast (Willis)
 - First mate
-- Six feet tall human male
-- Bald
+- Five feet tall dwarf male
 - Can be freakishly strong when his ship's in danger
 - Got his nickname when he singlehandedly shifted the sail on the 'Heart of Iron', turning the ship in a critical moment against 'Barborbossa'.
 *** Pudge (Pudgeosopher, po-boy to his friends)
 - Ship cook
 - Gloriously fat
 - Once fought off three pirate scum that entered the kitchen.
+*** Helmswoman Anisaf
+- Jolly spirit
+- Male 90s wood elf
+- Not much of a fighter, but a good archer
+- Likes steering things
+- Close friends with Bruce
 ** From Ashenmire Palace
 
 
@@ -114,6 +121,7 @@ Insured with Calceri Bank.
 - Bayaz looks maybe sixty, heavily built, with a strong face, deeply lined, and a close-cropped grey beard around his mouth. He is entirely bald, with a tanned pate.
 - Goes by 'Lord Colm Ashenmire'.
 - Lord of Waterdeep
+- Old Timer influences (mostly rules) Waterdeep, used to rule Luskan and the Amn but got lazy.
 - Level 15 Wizard-Sorcerer
 - Patron of [[Elena Feyhammer]].
 *** Yoru Sulfur
@@ -124,6 +132,7 @@ Insured with Calceri Bank.
 - [[Bayaz]]'s eater and shapeshifter.
 *** Khalul
 - Trapped by Bayaz in Lemuria.
+- Old Timer ruled Calimshan, Lantan from his seat in Lemuria until six hundred years ago.
 - Released by [[Marod Feyhammer]].
 *** Marod Feyhammer
 - Male human calishite, 77
@@ -179,12 +188,96 @@ What is something they (the player) wants to accomplish
 What is something their character wants to accomplish
 Go over any home rules or just the rules (maybe do a simple fight or something here, non-cannon)
 Job Interview
-*** Things you know
-**** Spread of a plague in the South has 
 *** Summary
+** Session 1
+*** Things you know
+**** Plague in the south
+- The Wasting Hunger
+- Calimport has been hit with a devastating plague as of four years ago, and travelers and traders are avoiding all of Calimshan.
+- Has spread despite the intervention attempts of several priesthoods.
+- The afflicted start wasting away and hungering for humanoid flesh.
+- After a couple of days they go mad for it and attack those caring for them. New cases crop up and are put down every day.
+- A new cult has risen in the past two years to take advantage, helping the afflicted but gaining political control over the city. Led by Khalul
+*** Plan
+**** Shopping, preparations for the jouney.
+**** Invitation to the ball at Lord Colm Ashenmire's palace
+***** Meeting
+- The night before the ship is to head out.
+- Messenger girl (Allison Bonkers) is a bit late, wants a nice tip because he found you.
+***** Yoru Sulfur
+ - When the players arrive near the entrance to the grounds, they see another carriage heading towards another entrance. 
+ - May hear some screaming from it
+ - Horses may seem freaked out. 
+ - One passenger and one driver. Driver is a deaf-mute gnome. Passenger is Yoru Sulfur in his normal form. 
+ - 'Coffin' with shackled human afflicted with the wasting hunger
+ - If followed, will stop shortly before entering the mansion and approach, trying to dissuade from following.
+ - Will take coffin through separate entrance to a medical lab.
+***** Ball
+- Round ball area, decorated lavishly with frescos and painted windows and whatnot.
+- Lord Ashenmire is present, avoiding being too social but also invigorating the guests.
+- Friendly Guards standing by the doors further into the mansion.
+- Entertainers hired; beautiful men and women to go around making dignified, beautiful conversation with the guests.
+- Elena, Logen, Monsignore and the rest of the crew are here.
+- Pudge the cook is suspiciously sniffing everything before eating it but enjoying himself.
+- A small band is playing classical music in the corner.
+- Free drinks and rousing speeches!
+- Opportunities to talk to people.
+- Some start dancing, some with other crew members and other with the entertainers.
+- Two of the entertainers stand out; one is a fancy looking jester breathing fire, the other does insane acrobatics, jumping super high and stuff.
+**** Rescue on the 'Heart of Iron'
+***** Someone will try to get the party to the ship with them
+- Maybe [[Captain Monsignore]] will be called away during a conversation with the party in order to deal with how close the expedition will get to Calimshan
+- Maybe a sailor will want to show off the ship.
+- Maybe a sailor will want to show off the supplies.
+- Maybe a sailor will want to show off the power core.
+***** Elena and Logen will be under attack
+- Corpses leading up to the ship
+- Under attack, probably in Elena's room.
+****** Ishri Stats
+- 90 Health
+- Two attacks per turn
+- Hits for 2d6 + 2 (9), +7 to hit
+******* Spells
+- Disguise Self (1)
+- Crown of Madness (2)
+- Misty Step (2)
+- Mirror Image (2)
+- Vampiric Touch (3)
+- Major Image (3)
+- Freedom of Movement (4)
+- Detect Thoughts
+- Finger of Death? (7)
+- Ishri will try to escape if victory in doubt, 
+- Elena will communicate with Ashenmire, signal to the crew members that they should get underway before an investigation delays the trip.
+**** Hunt for the Eater at sea.
+***** Ishri
+****** Goals
+  - Get onto the Heart of Iron
+  - Weaken the expedition without being detected.
+  - Wreck the expedition when Lemuria has been found and bring it to the surface for [[Khalul]].
+****** Strategies
+  - Tries to kill and impersonate Logen. Can throw a hole at a wall and escape if cornered.
+  - Will try to kill and impersonate someone else if that fails.
+  - Maybe [[Helmswoman Anisaf]], threw her overboard, and assumed her role.
+  - The next day, murders another sailor "Dolorous Edd", hides the corpse beneath some wood on floor -2.
+  - If close to being cornered, may take a risk and try to kill and impersonate the captain.
+
+***** Yoru Sulfur
+****** Goals
+  - Get onto the Heart of Iron
+  - Remain undetected so as to ensure the loyalty of the crew.
+  - Ensure the success of the mission to secure the treasures of Lemuria for [[Bayaz]].
+****** Strategies
+  - Will try to murder and impersonate any of the crew ("Bruce") to get onto the mission.
+  - If a hunt for an eater begins and the ship turns towards land, will temporarily sabotage the power core to prevent other eater escape.
+  - Will assume that the captain is an obvious target.
+  - 
+
 ** Predictions
 *** If the 
 
 * Stuff
 ** Crown of Vesuvius
+- Attunes the wearer to the volcanic elements, earth and fire, and allows telepathy and bargaining with the elemental kings of the world. They are driven to desire it.
+- Intricate crown made of gold, bejewled with rubies, including a huuuge one on the front.
 
