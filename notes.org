@@ -1214,6 +1214,7 @@ Spellcasters: Thumbs tied together.
  - Encounters: Page 56
  - Fortunes: Page 58
  - I Search The Body: Page 60
+
  - Legal Situations: Page 61
  - Magic Effects: Page 62
  - Taverns and Games: Page 64
